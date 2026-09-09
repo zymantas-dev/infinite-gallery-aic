@@ -12,9 +12,19 @@
 const IIIF_ORIGIN = 'https://www.artic.edu/iiif'
 const ALLOWED_PATH = /^2\/[\w-]+\/[\w:,!.%-]+\/[\w,!.%-]+\/[\w!.-]+\/[\w-]+\.(jpg|jpeg|png|webp)$/i
 
+function getImagePath(request) {
+  const raw = request.query?.path
+  if (raw) return Array.isArray(raw) ? raw.join('/') : String(raw)
+
+  // Rewrites can expose either the original `/iiif/...` URL or the internal
+  // `/api/iiif/...` URL to a Node function. Accept both when the catch-all
+  // parameter is unavailable.
+  const pathname = new URL(request.url, 'http://localhost').pathname
+  return pathname.replace(/^\/(?:api\/)?iiif\//, '')
+}
+
 export default async function handler(request, response) {
-  const raw = request.query.path
-  const path = Array.isArray(raw) ? raw.join('/') : String(raw || '')
+  const path = getImagePath(request)
 
   if (!ALLOWED_PATH.test(path)) {
     response.status(400).json({ error: 'Unsupported IIIF path' })

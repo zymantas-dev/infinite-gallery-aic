@@ -100,6 +100,7 @@ class Gallery {
         lowResTexture: null,
         hiResTexture: null,
         hiResRequested: false,
+        hiResFailed: false,
         baseX: 0,
         aspectRatio: 1,
         palette: null,
@@ -157,6 +158,7 @@ class Gallery {
     plane.userData.aspectRatio = artwork.aspectRatio
     plane.userData.baseX = this.xRhythm[rhythmIndex] + (Math.random() * 2 - 1) * 0.1
     plane.userData.hiResRequested = false
+    plane.userData.hiResFailed = false
 
     this.disposePlaneTextures(plane)
     plane.material.map = null
@@ -176,7 +178,10 @@ class Gallery {
       (texture) => this.applyTexture(plane, texture, token, isHiRes),
       undefined,
       () => {
-        if (isHiRes) plane.userData.hiResRequested = false
+        if (isHiRes && token === plane.userData.loadToken) {
+          plane.userData.hiResRequested = false
+          plane.userData.hiResFailed = true
+        }
       }
     )
   }
@@ -389,7 +394,13 @@ class Gallery {
   updateTextureQuality(cameraZ) {
     const activeStation = this.activeStationFloat(cameraZ)
     this.planes.forEach((plane) => {
-      if (plane.userData.hiResRequested || !plane.userData.artwork) return
+      if (
+        plane.userData.hiResRequested ||
+        plane.userData.hiResFailed ||
+        !plane.userData.artwork
+      ) {
+        return
+      }
       if (Math.abs(plane.userData.station - activeStation) <= this.hiResRange) {
         this.requestTexture(plane, plane.userData.artwork.fullUrl, true)
       }
