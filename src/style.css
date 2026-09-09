@@ -1,0 +1,302 @@
+/* =========================================================================
+   Infinite Gallery — Art Institute of Chicago
+   Base layout adapted from the Depth Gallery UI element; the colour-chip label
+   is replaced with an editorial artwork card.
+   ========================================================================= */
+
+:root {
+  font-size: 12px;
+  --color-text: #f4f4f4;
+  --color-link: #f4f4f4;
+  --page-padding: 1.5rem;
+  --ui-font:
+    'IBM Plex Mono', 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
+    monospace;
+  --ui-tracking: 0.08em;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+body {
+  min-height: 100vh;
+  overflow: hidden;
+  color: var(--color-text);
+  background: #f4ece0;
+  font-family: var(--ui-font);
+  text-transform: uppercase;
+  letter-spacing: var(--ui-tracking);
+  font-size: 0.82rem;
+  line-height: 1.2;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: color 520ms ease;
+}
+
+body.frame-text-dark {
+  --color-text: #1a1a1a;
+  --color-link: #1a1a1a;
+}
+
+/* ---- loading veil ----------------------------------------------------- */
+.loading::before,
+.loading::after {
+  content: '';
+  position: fixed;
+  z-index: 10000;
+}
+
+.loading::before {
+  inset: 0;
+  background: #f4ece0;
+}
+
+.loading::after {
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  height: 1px;
+  margin-left: -50px;
+  background: #1a1a1a;
+  animation: ig-loader 1.5s ease-in-out infinite alternate forwards;
+}
+
+@keyframes ig-loader {
+  0% {
+    transform: scaleX(0);
+    transform-origin: 0% 50%;
+  }
+  50% {
+    transform: scaleX(1);
+    transform-origin: 0% 50%;
+  }
+  50.1% {
+    transform: scaleX(1);
+    transform-origin: 100% 50%;
+  }
+  100% {
+    transform: scaleX(0);
+    transform-origin: 100% 50%;
+  }
+}
+
+.boot-error {
+  position: fixed;
+  inset: 0;
+  z-index: 10001;
+  margin: 0;
+  display: grid;
+  place-content: center;
+  padding: 2rem;
+  max-width: 32rem;
+  margin-inline: auto;
+  text-align: center;
+  background: #f4ece0;
+  color: #1a1a1a;
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+/* ---- header / hint --------------------------------------------------- */
+.frame {
+  position: fixed;
+  inset: var(--page-padding) var(--page-padding) auto;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  pointer-events: none;
+  transition: color 520ms ease;
+}
+
+.frame a {
+  color: var(--color-link);
+  pointer-events: auto;
+  text-decoration: none;
+}
+
+.frame a:hover {
+  text-decoration: underline;
+}
+
+.frame__title {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+}
+
+.frame__hint {
+  position: fixed;
+  left: 50%;
+  bottom: var(--page-padding);
+  transform: translateX(-50%);
+  z-index: 1000;
+  margin: 0;
+  font-size: 0.72rem;
+  opacity: 0.7;
+  pointer-events: none;
+  transition: color 520ms ease;
+  text-align: center;
+}
+
+a:focus-visible {
+  outline: 2px solid #d24b3a;
+}
+
+/* ---- webgl canvas -------------------------------------------------- */
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: auto;
+  touch-action: none;
+  z-index: 0;
+}
+
+/* ---- artwork label ------------------------------------------------- */
+.art-label {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  pointer-events: none;
+  transition: opacity 320ms ease;
+  color: inherit;
+}
+
+.art-label__aside {
+  position: absolute;
+  left: clamp(1.5rem, 5vw, 5rem);
+  bottom: clamp(3.25rem, 9vh, 5rem);
+  display: grid;
+  gap: 0.6rem;
+  justify-items: start;
+}
+
+.art-label__chip {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.18);
+}
+
+.art-label__index {
+  margin: 0;
+  font-size: 9px;
+  opacity: 0.85;
+}
+
+.art-label__card {
+  position: absolute;
+  right: clamp(1.5rem, 5vw, 5rem);
+  bottom: clamp(3.25rem, 9vh, 5rem);
+  width: min(34vw, 320px);
+  display: grid;
+  gap: 0.8rem;
+  line-height: 1.3;
+}
+
+/* Soft scrim so the caption stays readable over busy artwork */
+.art-label__card::before {
+  content: '';
+  position: absolute;
+  inset: -1.25rem -1.75rem -1.25rem -2.5rem;
+  z-index: -1;
+  background: radial-gradient(
+    130% 110% at 82% 68%,
+    rgb(244 236 224 / 0.7),
+    rgb(244 236 224 / 0) 74%
+  );
+}
+
+body.frame-text-dark .art-label__card::before {
+  background: radial-gradient(
+    130% 110% at 82% 68%,
+    rgb(247 241 232 / 0.76),
+    rgb(247 241 232 / 0) 74%
+  );
+}
+
+.art-label__title {
+  margin: 0;
+  font-size: clamp(11px, 0.95vw, 14px);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.art-label__artist {
+  margin: 0;
+  font-size: clamp(9px, 0.72vw, 11px);
+  opacity: 0.85;
+}
+
+.art-label__specs {
+  margin: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.art-label__row {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 3.75rem 1fr;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.art-label__row dt,
+.art-label__row dd {
+  margin: 0;
+}
+
+.art-label__row dt {
+  font-size: 9px;
+  opacity: 0.65;
+}
+
+.art-label__row dd {
+  font-size: clamp(9px, 0.72vw, 11px);
+}
+
+.art-label__credit {
+  margin: 0;
+  font-size: 8px;
+  opacity: 0.55;
+}
+
+@media (max-width: 53em) {
+  .art-label__aside {
+    left: auto;
+    right: max(1rem, env(safe-area-inset-right));
+    top: max(3.25rem, env(safe-area-inset-top));
+    transform: none;
+  }
+
+  .art-label__card {
+    right: auto;
+    left: max(1rem, env(safe-area-inset-left));
+    top: auto;
+    bottom: max(5.5rem, env(safe-area-inset-bottom));
+    transform: none;
+    width: min(72vw, 320px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+  }
+}

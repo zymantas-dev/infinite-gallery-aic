@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infinite Gallery — Art Institute of Chicago</title>
+    <script>
+      document.documentElement.className = 'js'
+    </script>
+  </head>
+  <body>
+    <!-- An endless depth gallery flown through public-domain artworks from the
+         Art Institute of Chicago. A recycled pool of planes leapfrogs forward
+         as the camera advances; each artwork's dominant colour drives the
+         GLSL mood background. Built on the Depth Gallery UI element. -->
+    <header class="frame">
+      <h1 class="frame__title">Infinite Gallery</h1>
+      <a href="https://api.artic.edu/docs/" target="_blank" rel="noopener">AIC API</a>
+    </header>
+
+    <canvas class="webgl"></canvas>
+
+    <p class="frame__hint">Scroll to fly through the collection — it never ends</p>
+    <p class="boot-error" role="alert" hidden></p>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

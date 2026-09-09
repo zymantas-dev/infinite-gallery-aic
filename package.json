@@ -1,0 +1,18 @@
+{
+  "name": "infinite-gallery-aic",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Infinite depth gallery flown through public-domain artworks from the Art Institute of Chicago API. Variation A of the AIC demo blueprint, built on the Depth Gallery UI element.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.183.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
