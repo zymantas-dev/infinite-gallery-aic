@@ -1,6 +1,4 @@
 # Infinite Gallery — Art Institute of Chicago
-
-Variation A of the [AIC demo blueprint](../free-apis/Idea_1_Art_Institute_Chicago.md):
 an **endless depth gallery** flown through public-domain artworks from the
 Art Institute of Chicago's free API. Built on the **Depth Gallery** UI element
 (`ui-elements/components/webgl/depth-gallery`, a port of the Codrops
