@@ -1,40 +1,12 @@
 // =========================================================================
-// Art Institute of Chicago API
+// Art Institute of Chicago artwork normalisation
 //
-// Zero-auth, open-CORS. We page through /artworks, keep only public-domain
-// entries that have an image and a dominant colour, and turn each one into a
-// gallery-ready record: an IIIF image URL plus a small mood palette derived
-// from the artwork's own dominant HSL colour.
+// Turns a raw AIC API record into a gallery-ready one: display metadata plus a
+// small mood palette derived from the artwork's own dominant HSL colour. Used
+// by scripts/snapshot.mjs when building the static dataset in public/art.
 //
-// Docs: https://api.artic.edu/docs/  ·  IIIF: https://iiif.io/api/image/2.0/
+// Docs: https://api.artic.edu/docs/
 // =========================================================================
-
-const API_BASE = 'https://api.artic.edu/api/v1'
-
-// Same-origin path served by the Vite proxy (see vite.config.js). The IIIF
-// image host itself sends no CORS headers, so WebGL textures must come through
-// the proxy rather than straight from www.artic.edu.
-const IIIF_BASE = '/iiif/2'
-
-const ARTWORK_FIELDS = [
-  'id',
-  'title',
-  'artist_title',
-  'artist_display',
-  'date_display',
-  'medium_display',
-  'department_title',
-  'image_id',
-  'color',
-  'thumbnail',
-].join(',')
-
-// The catalogue is large; a random-ish starting page keeps repeat visits fresh.
-const MAX_START_PAGE = 600
-
-function iiifImageUrl(imageId, width) {
-  return `${IIIF_BASE}/${imageId}/full/${Math.round(width)},/0/default.jpg`
-}
 
 function clamp(value, min, max) {
   return Math.min(Math.max(value, min), max)
@@ -110,45 +82,9 @@ function normalizeArtwork(raw) {
     medium: firstLine(raw.medium_display) || '',
     department: raw.department_title || '',
     imageId: raw.image_id,
-    thumbUrl: iiifImageUrl(raw.image_id, 400),
-    fullUrl: iiifImageUrl(raw.image_id, 843),
     aspectRatio: clamp(aspectRatio, 0.5, 2.2),
     palette,
   }
 }
 
-async function fetchArtworkPage({ page, limit = 100, signal } = {}) {
-  const url = `${API_BASE}/artworks?fields=${ARTWORK_FIELDS}&limit=${limit}&page=${page}`
-  const response = await fetch(url, {
-    signal,
-    headers: { 'AIC-User-Agent': 'infinite-gallery-aic demo (experiments)' },
-  })
-
-  if (!response.ok) {
-    throw new Error(`AIC request failed: ${response.status} ${response.statusText}`)
-  }
-
-  const payload = await response.json()
-  const items = Array.isArray(payload?.data) ? payload.data : []
-  const totalPages = payload?.pagination?.total_pages || null
-
-  const artworks = items
-    .filter((item) => item && item.image_id && item.color)
-    .map((item) => normalizeArtwork(item))
-    .filter(Boolean)
-
-  // The catalogue is ID-ordered, so a raw page is often one artist / one
-  // portfolio in a row. Shuffle so the tunnel mixes eras and media.
-  for (let i = artworks.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[artworks[i], artworks[j]] = [artworks[j], artworks[i]]
-  }
-
-  return { artworks, totalPages }
-}
-
-function randomStartPage() {
-  return 1 + Math.floor(Math.random() * MAX_START_PAGE)
-}
-
-export { fetchArtworkPage, randomStartPage, iiifImageUrl, hslToHex, buildPalette }
+export { normalizeArtwork, hslToHex, buildPalette }

@@ -1,0 +1,4569 @@
+{
+ "generatedAt": "2026-10-21T06:55:35.545Z",
+ "sizes": [
+  400,
+  843
+ ],
+ "artworks": [
+  {
+   "id": 43693,
+   "title": "E4: English Drawing Room of the Late Stuart Period, 1680–1702",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "44c06012-6554-cd60-2311-3272b6321f8a",
+   "aspectRatio": 1.4394,
+   "palette": {
+    "accentColor": "#d8bd64",
+    "backgroundColor": "#ece9df",
+    "blob1Color": "#dbb63d",
+    "blob2Color": "#a5d65c",
+    "hue": 46,
+    "saturation": 60,
+    "lightness": 69
+   }
+  },
+  {
+   "id": 111617,
+   "title": "Cabin in the Cotton",
+   "artist": "Horace Pippin",
+   "date": "c. 1931–37",
+   "medium": "Oil on cotton, mounted on Masonite",
+   "department": "Arts of the Americas",
+   "imageId": "18dd28cc-ae57-b852-cbc4-d184c6f0555d",
+   "aspectRatio": 1.6897,
+   "palette": {
+    "accentColor": "#a2966d",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a265",
+    "blob2Color": "#9eb67c",
+    "hue": 47,
+    "saturation": 3,
+    "lightness": 53
+   }
+  },
+  {
+   "id": 100827,
+   "title": "Bull Terrier",
+   "artist": "Artist unknown",
+   "date": "1875–1900",
+   "medium": "Pine",
+   "department": "Arts of the Americas",
+   "imageId": "6261d9f9-eb92-823a-c792-2508590f0d15",
+   "aspectRatio": 0.7502,
+   "palette": {
+    "accentColor": "#c9a873",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c69a52",
+    "blob2Color": "#afc66c",
+    "hue": 37,
+    "saturation": 44,
+    "lightness": 66
+   }
+  },
+  {
+   "id": 94128,
+   "title": "Sampler",
+   "artist": "Denmark",
+   "date": "1757",
+   "medium": "Linen, plain weave; embroidered in silk",
+   "department": "Textiles",
+   "imageId": "0a5a2371-b5e6-35e8-8751-698ed433f009",
+   "aspectRatio": 1.0196,
+   "palette": {
+    "accentColor": "#8c6a31",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#cc9d4d",
+    "blob2Color": "#b0ca68",
+    "hue": 38,
+    "saturation": 48,
+    "lightness": 37
+   }
+  },
+  {
+   "id": 116549,
+   "title": "Pair of Flintlock Pistols",
+   "artist": "J. J. Behr",
+   "date": "c. 1725",
+   "medium": "Walnut, steel, and cast and chased brass",
+   "department": "Applied Arts of Europe",
+   "imageId": "774e21ae-7e26-0724-d763-724c7da7bb10",
+   "aspectRatio": 1.3044,
+   "palette": {
+    "accentColor": "#e3c359",
+    "backgroundColor": "#ede9de",
+    "blob1Color": "#eabe2f",
+    "blob2Color": "#a7e052",
+    "hue": 46,
+    "saturation": 71,
+    "lightness": 81
+   }
+  },
+  {
+   "id": 8862,
+   "title": "Stirrup Spout Vessel with Fineline Enthroned Warrior Motif",
+   "artist": "Moche",
+   "date": "100 BCE–500 CE",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "cb340983-cdae-7b8a-0927-2a0aad13318d",
+   "aspectRatio": 0.6631,
+   "palette": {
+    "accentColor": "#8d4234",
+    "backgroundColor": "#eae2e1",
+    "blob1Color": "#c96250",
+    "blob2Color": "#c8b46a",
+    "hue": 9,
+    "saturation": 46,
+    "lightness": 38
+   }
+  },
+  {
+   "id": 61128,
+   "title": "At the Moulin Rouge",
+   "artist": "Henri de Toulouse-Lautrec",
+   "date": "1892–95",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "defb4004-b500-218d-3d9b-9a02423f097d",
+   "aspectRatio": 1.1441,
+   "palette": {
+    "accentColor": "#8d6725",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d9a140",
+    "blob2Color": "#b5d45e",
+    "hue": 38,
+    "saturation": 58,
+    "lightness": 35
+   }
+  },
+  {
+   "id": 141231,
+   "title": "Ring: Figure of Bes playing frame drum, sa (protection) before him",
+   "artist": "Ancient Egyptian",
+   "date": "New Kingdom, Dynasty 18 (about 1390 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "fec1e5fe-0c7c-caa2-7444-348684fe60cd",
+   "aspectRatio": 1.8051,
+   "palette": {
+    "accentColor": "#28a2b8",
+    "backgroundColor": "#dfeaec",
+    "blob1Color": "#38c7e1",
+    "blob2Color": "#5874da",
+    "hue": 189,
+    "saturation": 64,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 9767,
+   "title": "Basket Insert",
+   "artist": "England",
+   "date": "1662",
+   "medium": "Linen, plain weave; beaded with glass beads; backed with cardboard; lined with silk, plain weave with supplementary patterning wefts",
+   "department": "Textiles",
+   "imageId": "5be2fecb-b05d-011f-93cb-8e2cca9290d7",
+   "aspectRatio": 1.4214,
+   "palette": {
+    "accentColor": "#d3a75f",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d79e41",
+    "blob2Color": "#b6d35f",
+    "hue": 37,
+    "saturation": 57,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 59455,
+   "title": "Meetinghouse Hill, Roxbury, Massachusetts",
+   "artist": "John Ritto Penniman",
+   "date": "1799",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "498e45a7-5721-25dd-e26c-09b3e5b8010b",
+   "aspectRatio": 1.309,
+   "palette": {
+    "accentColor": "#c3ac79",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#be9f5a",
+    "blob2Color": "#a7c072",
+    "hue": 41,
+    "saturation": 38,
+    "lightness": 65
+   }
+  },
+  {
+   "id": 25364,
+   "title": "Bowl with a Bust of Mucius Scaevola",
+   "artist": "Faenza Potteries",
+   "date": "1535/45",
+   "medium": "Tin-glazed earthenware (maiolica)",
+   "department": "Applied Arts of Europe",
+   "imageId": "eedb67fe-bfcc-7d82-5dff-769f9ae1a0ab",
+   "aspectRatio": 1,
+   "palette": {
+    "accentColor": "#d8ae31",
+    "backgroundColor": "#ece9df",
+    "blob1Color": "#e6b933",
+    "blob2Color": "#a9de54",
+    "hue": 45,
+    "saturation": 68,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 141235,
+   "title": "Ring: Figure of Serpent Uto (?)",
+   "artist": "Ancient Egyptian",
+   "date": "New Kingdom, Dynasty 18 (about 1390 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "c608b9bc-8fbd-4611-b2fc-e43ee686000e",
+   "aspectRatio": 1.1596,
+   "palette": {
+    "accentColor": "#168fbb",
+    "backgroundColor": "#dee9ed",
+    "blob1Color": "#2eb8ea",
+    "blob2Color": "#5260e0",
+    "hue": 196,
+    "saturation": 79,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 86,
+   "title": "Two warriors, one seated asleep on a foreground rock, from Figurine series",
+   "artist": "Salvator Rosa",
+   "date": "n.d.",
+   "medium": "Etching on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "c526537c-50b4-5a0a-8844-b386932c8497",
+   "aspectRatio": 0.644,
+   "palette": {
+    "accentColor": "#c2ab7a",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#bd9e5b",
+    "blob2Color": "#a7bf73",
+    "hue": 41,
+    "saturation": 37,
+    "lightness": 63
+   }
+  },
+  {
+   "id": 210772,
+   "title": "Zuni Indian Girl, with water olla, No. 17 from the series \"Geographical Explorations and Surveys West of the 100th Meridian\"",
+   "artist": "Timothy O'Sullivan",
+   "date": "1873",
+   "medium": "Albumen print, stereo",
+   "department": "Photography and Media",
+   "imageId": "4465d765-53cc-493d-abeb-fdd3be7b903f",
+   "aspectRatio": 1.7212,
+   "palette": {
+    "accentColor": "#edc350",
+    "backgroundColor": "#ede9de",
+    "blob1Color": "#eab82e",
+    "blob2Color": "#ace052",
+    "hue": 44,
+    "saturation": 81,
+    "lightness": 69
+   }
+  },
+  {
+   "id": 185619,
+   "title": "Woman's Robe",
+   "artist": "Bukhara, Uzbekistan",
+   "date": "1840/60",
+   "medium": "Silk and cotton, plain weave; warp-resist-dyed (ikat); edged with silk twined embroidery",
+   "department": "Textiles",
+   "imageId": "899c5368-d920-d493-05b3-43c875bcce95",
+   "aspectRatio": 1.248,
+   "palette": {
+    "accentColor": "#d8a22c",
+    "backgroundColor": "#ede8de",
+    "blob1Color": "#e7ae31",
+    "blob2Color": "#b3df53",
+    "hue": 41,
+    "saturation": 69,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 136740,
+   "title": "Funerary Mask",
+   "artist": "Ancient Egyptian",
+   "date": "Late Ptolemaic Period-early Roman Period, 1st century BCE",
+   "medium": "Cartonnage, gold leaf, and pigment",
+   "department": "Arts of Africa",
+   "imageId": "6ff83986-8938-20c2-c0c3-82f34ae0035f",
+   "aspectRatio": 0.7999,
+   "palette": {
+    "accentColor": "#bfa869",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c1a557",
+    "blob2Color": "#a4c270",
+    "hue": 44,
+    "saturation": 40,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 120163,
+   "title": "Capture of the Tripoli by the Enterprise",
+   "artist": "Thomas Birch",
+   "date": "1806–12",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "2b219d21-c128-ea2e-cb0b-69d2e9e98e5e",
+   "aspectRatio": 1.3612,
+   "palette": {
+    "accentColor": "#a18759",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a7b77b",
+    "hue": 38,
+    "saturation": 29,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 106448,
+   "title": "Double-Barreled Flintlock Shotgun",
+   "artist": "Jean Arlot",
+   "date": "c. 1810",
+   "medium": "Steel, gold, silver, walnut, leather",
+   "department": "Applied Arts of Europe",
+   "imageId": "19c67dd3-538c-b07d-541f-52c285c73579",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#674742",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b37165",
+    "blob2Color": "#b6a97c",
+    "hue": 9,
+    "saturation": 10,
+    "lightness": 33
+   }
+  },
+  {
+   "id": 103347,
+   "title": "Bureau Table",
+   "artist": "John Townsend",
+   "date": "c. 1770",
+   "medium": "Mahogany, chestnut, and tulip poplar",
+   "department": "Arts of the Americas",
+   "imageId": "729c7015-ffde-6525-a0c8-6e61b67acbe8",
+   "aspectRatio": 1.0009,
+   "palette": {
+    "accentColor": "#f3c349",
+    "backgroundColor": "#ede9de",
+    "blob1Color": "#eab52e",
+    "blob2Color": "#aee052",
+    "hue": 43,
+    "saturation": 89,
+    "lightness": 66
+   }
+  },
+  {
+   "id": 68674,
+   "title": "Untitled (Nephew Edward with tennis racquet)",
+   "artist": "Alfred Stieglitz",
+   "date": "c. 1917",
+   "medium": "Lantern slide",
+   "department": "Photography and Media",
+   "imageId": "4b7aad11-eadf-c41b-04ac-671985509e09",
+   "aspectRatio": 1.243,
+   "palette": {
+    "accentColor": "#90291d",
+    "backgroundColor": "#ece0df",
+    "blob1Color": "#e34735",
+    "blob2Color": "#dcb856",
+    "hue": 6,
+    "saturation": 66,
+    "lightness": 34
+   }
+  },
+  {
+   "id": 45316,
+   "title": "A1: Massachusetts Living Room and Kitchen, 1675–1700",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1940",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "d754818f-8c55-e8fb-f8f3-1ea286004df4",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#c79a52",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d09c49",
+    "blob2Color": "#b3cd65",
+    "hue": 37,
+    "saturation": 51,
+    "lightness": 55
+   }
+  },
+  {
+   "id": 14294,
+   "title": "Eight Bells",
+   "artist": "Winslow Homer",
+   "date": "1887",
+   "medium": "Etching on ivory parchment",
+   "department": "Prints and Drawings",
+   "imageId": "d3eae948-812f-1a9d-d907-2d91ef6a8436",
+   "aspectRatio": 1.1333,
+   "palette": {
+    "accentColor": "#a49370",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a3b67c",
+    "hue": 41,
+    "saturation": 10,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 158473,
+   "title": "Pitcher",
+   "artist": "Joseph Green",
+   "date": "c. 1890",
+   "medium": "Earthenware and glaze",
+   "department": "Arts of the Americas",
+   "imageId": "dec4ce56-76cb-39cb-ad86-a1fc431ecfca",
+   "aspectRatio": 1.2658,
+   "palette": {
+    "accentColor": "#98250b",
+    "backgroundColor": "#ede1de",
+    "blob1Color": "#ea512e",
+    "blob2Color": "#e0c652",
+    "hue": 11,
+    "saturation": 86,
+    "lightness": 32
+   }
+  },
+  {
+   "id": 51541,
+   "title": "Prancing Horse",
+   "artist": "Follower of Jean Louis André Théodore Géricault",
+   "date": "1808–12",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "a7aabc96-a81c-fa64-177c-5a80ef01e848",
+   "aspectRatio": 1.5335,
+   "palette": {
+    "accentColor": "#989161",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3a965",
+    "blob2Color": "#99b67c",
+    "hue": 52,
+    "saturation": 8,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 116535,
+   "title": "Wheellock Gun of Tschinke Form",
+   "artist": "Polish, Silesia, Teschen",
+   "date": "1650",
+   "medium": "Ebony, horn, and ivory",
+   "department": "Applied Arts of Europe",
+   "imageId": "8e9740d3-e29c-07af-4ba2-8b3ca7e96959",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#d8ae64",
+    "backgroundColor": "#ece7df",
+    "blob1Color": "#dba13d",
+    "blob2Color": "#b6d65c",
+    "hue": 38,
+    "saturation": 60,
+    "lightness": 66
+   }
+  },
+  {
+   "id": 566,
+   "title": "Life Cast of the Hands and Face of Abraham Lincoln",
+   "artist": "Leonard Wells Volk",
+   "date": "Cast in plaster 1860; cast in bronze by 1888",
+   "medium": "Bronze",
+   "department": "Arts of the Americas",
+   "imageId": "8ad03fff-be28-ab22-689c-8f022b5e181c",
+   "aspectRatio": 1.463,
+   "palette": {
+    "accentColor": "#b3ae89",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3a965",
+    "blob2Color": "#99b67c",
+    "hue": 52,
+    "saturation": 3,
+    "lightness": 81
+   }
+  },
+  {
+   "id": 105331,
+   "title": "A Talk with the Keeper",
+   "artist": "Henry Peach Robinson",
+   "date": "May 25, 1881",
+   "medium": "Albumen print",
+   "department": "Photography and Media",
+   "imageId": "74159eda-38e6-9eea-55ff-008329ca791b",
+   "aspectRatio": 1.385,
+   "palette": {
+    "accentColor": "#b79b34",
+    "backgroundColor": "#ebe9e0",
+    "blob1Color": "#d6b642",
+    "blob2Color": "#a3d260",
+    "hue": 47,
+    "saturation": 56,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 147508,
+   "title": "Oil or Vinegar Cruet",
+   "artist": "Meissen Porcelain Manufactory",
+   "date": "c. 1737",
+   "medium": "Enameled and gilded hard-paste porcelain",
+   "department": "Applied Arts of Europe",
+   "imageId": "6984d399-ce23-cb53-29e3-bd96c932d908",
+   "aspectRatio": 0.8573,
+   "palette": {
+    "accentColor": "#925d5f",
+    "backgroundColor": "#e8e3e4",
+    "blob1Color": "#b36568",
+    "blob2Color": "#b69f7c",
+    "hue": 358,
+    "saturation": 20,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 79345,
+   "title": "There Was Perhaps a First Vision Attempted in the Flower, plate 2 of 8 from \"Les Origines\"",
+   "artist": "Odilon Redon",
+   "date": "1883",
+   "medium": "Lithograph in black on light gray chine laid down on white wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "d3adbf40-97d7-4556-cfd3-64fb69807f6a",
+   "aspectRatio": 0.6824,
+   "palette": {
+    "accentColor": "#898058",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a565",
+    "blob2Color": "#9cb67c",
+    "hue": 49,
+    "saturation": 6,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 15230,
+   "title": "Mary Cassatt at the Louvre: The Etruscan Gallery",
+   "artist": "Hilaire Germain Edgar Degas",
+   "date": "1879–80",
+   "medium": "Soft ground etching, drypoint, aquatint, and etching on buff laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "c1a1b7d6-6a2f-e0de-b364-2db4bee1bdf2",
+   "aspectRatio": 0.7276,
+   "palette": {
+    "accentColor": "#a28e6d",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 12,
+    "lightness": 53
+   }
+  },
+  {
+   "id": 140929,
+   "title": "Amulet of the God Thoth",
+   "artist": "Ancient Egyptian",
+   "date": "Late Period, Dynasties 26–31 (664–332 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "a891d410-9998-3806-5fef-18a4880397a5",
+   "aspectRatio": 0.5,
+   "palette": {
+    "accentColor": "#89955f",
+    "backgroundColor": "#e6e7e4",
+    "blob1Color": "#a1b365",
+    "blob2Color": "#84b67c",
+    "hue": 74,
+    "saturation": 13,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 20029,
+   "title": "Sunflowers, Marché St Germain, Paris",
+   "artist": "James McNeill Whistler",
+   "date": "1888/93",
+   "medium": "Etching with foul biting in black ink on ivory Japanese paper",
+   "department": "Prints and Drawings",
+   "imageId": "2e9476db-2d28-c197-25d8-9b525d63d5a0",
+   "aspectRatio": 1.2373,
+   "palette": {
+    "accentColor": "#958e5f",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3a965",
+    "blob2Color": "#99b67c",
+    "hue": 52,
+    "saturation": 7,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 11346,
+   "title": "Little Mother, Pittsburgh",
+   "artist": "Lewis Wickes Hine",
+   "date": "1909",
+   "medium": "Gelatin silver print",
+   "department": "Photography and Media",
+   "imageId": "69bb555d-8a13-3ffc-62f6-dcaea7baa348",
+   "aspectRatio": 0.731,
+   "palette": {
+    "accentColor": "#a0966a",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a565",
+    "blob2Color": "#9cb67c",
+    "hue": 49,
+    "saturation": 6,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 111794,
+   "title": "Sallet (Barbute)",
+   "artist": "Antonio Missaglia (Italian, 1416/17-1495/96)",
+   "date": "1460/70",
+   "medium": "Steel",
+   "department": "Applied Arts of Europe",
+   "imageId": "a5ed95df-b768-1ecb-7af5-eafcea4461d3",
+   "aspectRatio": 0.7169,
+   "palette": {
+    "accentColor": "#76a792",
+    "backgroundColor": "#e4e7e6",
+    "blob1Color": "#65b391",
+    "blob2Color": "#7caab6",
+    "hue": 154,
+    "saturation": 0,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 109442,
+   "title": "Daniel Webster",
+   "artist": "Thomas Ball",
+   "date": "Modeled and cast 1853",
+   "medium": "Bronze",
+   "department": "Arts of the Americas",
+   "imageId": "7a96592d-29d8-8483-9abd-f5ac8524f3dc",
+   "aspectRatio": 0.6867,
+   "palette": {
+    "accentColor": "#66925d",
+    "backgroundColor": "#e4e7e4",
+    "blob1Color": "#72b365",
+    "blob2Color": "#7cb697",
+    "hue": 110,
+    "saturation": 6,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 68,
+   "title": "Saint John the Evangelist",
+   "artist": "Paolo Farinati",
+   "date": "1567",
+   "medium": "Etching in black on paper",
+   "department": "Prints and Drawings",
+   "imageId": "e4387d3c-49db-6bc3-9e3d-4ec59ad147f8",
+   "aspectRatio": 0.6716,
+   "palette": {
+    "accentColor": "#8a7751",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 26,
+    "lightness": 43
+   }
+  },
+  {
+   "id": 6448,
+   "title": "Fragment",
+   "artist": "Chiquerillo, Palpa Valley, south coast, Peru",
+   "date": "900-1476",
+   "medium": "Cotton, plain weave, double cloth",
+   "department": "Textiles",
+   "imageId": "34ad362c-35ed-f519-6bd7-736cc89a9351",
+   "aspectRatio": 1.3164,
+   "palette": {
+    "accentColor": "#5d9274",
+    "backgroundColor": "#e4e7e5",
+    "blob1Color": "#65b387",
+    "blob2Color": "#7cb2b6",
+    "hue": 146,
+    "saturation": 3,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 56,
+   "title": "Anne of Austria, Queen of France",
+   "artist": "Robert Nanteuil",
+   "date": "1660",
+   "medium": "Engraving on paper",
+   "department": "Prints and Drawings",
+   "imageId": "862d8842-708f-ebff-1f4c-e49a8ef51283",
+   "aspectRatio": 0.7907,
+   "palette": {
+    "accentColor": "#8c7c5a",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a3b67c",
+    "hue": 41,
+    "saturation": 17,
+    "lightness": 45
+   }
+  },
+  {
+   "id": 43700,
+   "title": "E6: English Library of the Queen Anne/George I Periods, 1702–50",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "512277c6-896c-7941-0eea-b2ab3e3dd8eb",
+   "aspectRatio": 1.6152,
+   "palette": {
+    "accentColor": "#bc9938",
+    "backgroundColor": "#ebe8e0",
+    "blob1Color": "#d4ae45",
+    "blob2Color": "#a8d062",
+    "hue": 44,
+    "saturation": 54,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 2481,
+   "title": "Soup Plate",
+   "artist": "China",
+   "date": "c. 1780",
+   "medium": "Hard-paste porcelain with polychrome enamels and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "a2cddf85-2753-562a-9122-0e560a0cc35f",
+   "aspectRatio": 1.0338,
+   "palette": {
+    "accentColor": "#3a6383",
+    "backgroundColor": "#e2e6e9",
+    "blob1Color": "#5993c0",
+    "blob2Color": "#7771c1",
+    "hue": 206,
+    "saturation": 39,
+    "lightness": 37
+   }
+  },
+  {
+   "id": 159378,
+   "title": "Paperweight",
+   "artist": "Baccarat Glassworks",
+   "date": "c. 1846–55",
+   "medium": "Glass",
+   "department": "Applied Arts of Europe",
+   "imageId": "718377a1-12a7-ae30-f06a-d2fc7cb0070d",
+   "aspectRatio": 1,
+   "palette": {
+    "accentColor": "#894139",
+    "backgroundColor": "#eae2e1",
+    "blob1Color": "#c26156",
+    "blob2Color": "#c3ad6f",
+    "hue": 6,
+    "saturation": 41,
+    "lightness": 38
+   }
+  },
+  {
+   "id": 81,
+   "title": "Lame Beggar Asking for Alms, from T is al verwart-gaern (It's already confusing)",
+   "artist": "Pieter Jansz. Quast",
+   "date": "n.d.",
+   "medium": "Etching in black on paper",
+   "department": "Prints and Drawings",
+   "imageId": "22794b3c-eabf-24ce-26fc-d37be1d66cec",
+   "aspectRatio": 0.7627,
+   "palette": {
+    "accentColor": "#c1ad71",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#c0a659",
+    "blob2Color": "#a2c171",
+    "hue": 45,
+    "saturation": 39,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 141098,
+   "title": "Ball Bead",
+   "artist": "Ancient Egyptian",
+   "date": "Middle Kingdom–New Kingdom (about 2055–1069 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "d2298b29-5220-6fd1-54b8-c560ed1684d1",
+   "aspectRatio": 1.0645,
+   "palette": {
+    "accentColor": "#509daf",
+    "backgroundColor": "#e2e8e9",
+    "blob1Color": "#5babbd",
+    "blob2Color": "#7381bf",
+    "hue": 191,
+    "saturation": 37,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 18089,
+   "title": "Anne Thackeray Ritchie",
+   "artist": "Julia Margaret Cameron",
+   "date": "May 1870",
+   "medium": "Albumen print",
+   "department": "Photography and Media",
+   "imageId": "e726dfa6-69f0-c73c-5881-905816b8f89a",
+   "aspectRatio": 0.824,
+   "palette": {
+    "accentColor": "#cbc672",
+    "backgroundColor": "#eaeae1",
+    "blob1Color": "#c9c350",
+    "blob2Color": "#91c86a",
+    "hue": 57,
+    "saturation": 46,
+    "lightness": 65
+   }
+  },
+  {
+   "id": 6009,
+   "title": "The Beggar Boy (The Young Pilgrim)",
+   "artist": "Giovanni Battista Piazzetta",
+   "date": "1738–39",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "2ae161a1-d263-f3b4-b41f-3d1901ddefcc",
+   "aspectRatio": 0.8076,
+   "palette": {
+    "accentColor": "#9e8551",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#b69a62",
+    "blob2Color": "#a6ba78",
+    "hue": 40,
+    "saturation": 32,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 5460,
+   "title": "Table",
+   "artist": "John Townsend",
+   "date": "1750–90",
+   "medium": "Mahogany, beech and maple",
+   "department": "Arts of the Americas",
+   "imageId": "8ae08c45-92c8-4827-2b13-b3c09c14dcb0",
+   "aspectRatio": 1.3276,
+   "palette": {
+    "accentColor": "#b3a489",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39865",
+    "blob2Color": "#a5b67c",
+    "hue": 39,
+    "saturation": 3,
+    "lightness": 75
+   }
+  },
+  {
+   "id": 10923,
+   "title": "Sampler",
+   "artist": "Italy",
+   "date": "Early/mid–19th century",
+   "medium": "Linen, plain weave; embroidered with silk in cross stitches",
+   "department": "Textiles",
+   "imageId": "415a4b44-2ca5-1aa3-14e6-2e51a34f9815",
+   "aspectRatio": 1.0764,
+   "palette": {
+    "accentColor": "#97852b",
+    "backgroundColor": "#ebe9e0",
+    "blob1Color": "#d6be42",
+    "blob2Color": "#9dd260",
+    "hue": 50,
+    "saturation": 56,
+    "lightness": 38
+   }
+  },
+  {
+   "id": 20432,
+   "title": "The Old Savoyard",
+   "artist": "Jean Antoine Watteau",
+   "date": "c. 1715",
+   "medium": "Red and black chalk on cream laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "19ccb5bc-1bee-e0d0-f5cc-9e7cd4134af4",
+   "aspectRatio": 0.6095,
+   "palette": {
+    "accentColor": "#7d514a",
+    "backgroundColor": "#e8e4e3",
+    "blob1Color": "#b37165",
+    "blob2Color": "#b6a97c",
+    "hue": 9,
+    "saturation": 26,
+    "lightness": 39
+   }
+  },
+  {
+   "id": 19339,
+   "title": "Arlésiennes (Mistral)",
+   "artist": "Paul Gauguin",
+   "date": "1888",
+   "medium": "Oil on jute canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "ae6ac285-6887-dd76-4570-d379c786dfae",
+   "aspectRatio": 1.2645,
+   "palette": {
+    "accentColor": "#a67e26",
+    "backgroundColor": "#ece8df",
+    "blob1Color": "#dfab39",
+    "blob2Color": "#b1d959",
+    "hue": 41,
+    "saturation": 63,
+    "lightness": 40
+   }
+  },
+  {
+   "id": 2298,
+   "title": "Braid",
+   "artist": "France or England",
+   "date": "1650/75",
+   "medium": "Silk and silk-wrapped-hemp and silk-wrapped-linen cords, bobbin straight lace",
+   "department": "Textiles",
+   "imageId": "56e5a35f-f462-902c-fa4a-23e6a3932cdb",
+   "aspectRatio": 1.4444,
+   "palette": {
+    "accentColor": "#a79676",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39865",
+    "blob2Color": "#a5b67c",
+    "hue": 39,
+    "saturation": 22,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 3276,
+   "title": "Coif",
+   "artist": "England",
+   "date": "1601/25",
+   "medium": "Linen, plain weave; cut and drawn work in antique hem, double-rowed openwork, interlocking lace, overcast, and satin stitches; darned and overcast bars; darned and woven wheels; darned squares; woven picots; embroidered with silk and linen in bullion, satin and square chain stitches; buttonhole wheels and eyelet holes; edged with buttonhole loops",
+   "department": "Textiles",
+   "imageId": "1e5707b8-ca99-6d97-4c4d-2ff4d1daa26d",
+   "aspectRatio": 1.7202,
+   "palette": {
+    "accentColor": "#7c7b50",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3b165",
+    "blob2Color": "#93b67c",
+    "hue": 58,
+    "saturation": 2,
+    "lightness": 40
+   }
+  },
+  {
+   "id": 112102,
+   "title": "Burgonet",
+   "artist": "Southern German",
+   "date": "c. 1560/70",
+   "medium": "Steel",
+   "department": "Applied Arts of Europe",
+   "imageId": "92c7f2f0-4f25-dd27-cb1c-bd915e2ea1fa",
+   "aspectRatio": 0.7916,
+   "palette": {
+    "accentColor": "#5a788c",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#6594b3",
+    "blob2Color": "#7e7cb6",
+    "hue": 204,
+    "saturation": 0,
+    "lightness": 45
+   }
+  },
+  {
+   "id": 116292,
+   "title": "Elements of Composite Armor",
+   "artist": "German or Austrian",
+   "date": "c. 1520 with later additions",
+   "medium": "Steel",
+   "department": "Applied Arts of Europe",
+   "imageId": "70690a19-081e-d1d6-d358-160712b39c90",
+   "aspectRatio": 0.6569,
+   "palette": {
+    "accentColor": "#9e6f67",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b37165",
+    "blob2Color": "#b6a97c",
+    "hue": 9,
+    "saturation": 3,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 79459,
+   "title": "Everywhere eyeballs are aflame, plate 9 from The Temptation of Saint Anthony (1st series)",
+   "artist": "Odilon Redon",
+   "date": "1888",
+   "medium": "Lithograph in black on ivory China paper, laid down on ivory wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "1975b897-1640-4eed-7463-3d3e0fe5b1fd",
+   "aspectRatio": 0.7756,
+   "palette": {
+    "accentColor": "#988761",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a3b67c",
+    "hue": 41,
+    "saturation": 7,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 15132,
+   "title": "Sampler (Map)",
+   "artist": "England",
+   "date": "c. 1800",
+   "medium": "",
+   "department": "Textiles",
+   "imageId": "bb513b07-82c7-cdd3-cca3-1fe729bc82e5",
+   "aspectRatio": 0.8987,
+   "palette": {
+    "accentColor": "#8b2423",
+    "backgroundColor": "#ece0df",
+    "blob1Color": "#db403d",
+    "blob2Color": "#d6ab5c",
+    "hue": 1,
+    "saturation": 60,
+    "lightness": 34
+   }
+  },
+  {
+   "id": 106302,
+   "title": "Crossbow",
+   "artist": "German",
+   "date": "1730/50",
+   "medium": "Steel, fruitwood, staghorn, leather, and hemp",
+   "department": "Applied Arts of Europe",
+   "imageId": "eb70b629-f013-7ace-9b55-5b046a84475c",
+   "aspectRatio": 1.6207,
+   "palette": {
+    "accentColor": "#a6a776",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b1b365",
+    "blob2Color": "#8fb67c",
+    "hue": 62,
+    "saturation": 1,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 147149,
+   "title": "Degree of Ossification of a Five-Month-Old Fetus (Degré d'ossification d'un Foetus de cinq mois)",
+   "artist": "Léon Tissier",
+   "date": "1898",
+   "medium": "Gelatin silver print with applied india ink or watercolor",
+   "department": "Photography and Media",
+   "imageId": "c240af34-6976-b596-77dc-8b46afd6af5a",
+   "aspectRatio": 0.7373,
+   "palette": {
+    "accentColor": "#95815f",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 8,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 11276,
+   "title": "Untitled",
+   "artist": "Unknown",
+   "date": "c. 1839/60",
+   "medium": "Daguerreotype",
+   "department": "Photography and Media",
+   "imageId": "0cc2df05-16e9-0d88-7642-df9dab6ec2fa",
+   "aspectRatio": 0.8263,
+   "palette": {
+    "accentColor": "#c59034",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d9a140",
+    "blob2Color": "#b5d45e",
+    "hue": 38,
+    "saturation": 58,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 61942,
+   "title": "Landscape at Auvers",
+   "artist": "Paul Cezanne",
+   "date": "1873",
+   "medium": "Etching on light gray laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "e194cb06-a647-3661-efd0-73f3e287fc9e",
+   "aspectRatio": 0.8036,
+   "palette": {
+    "accentColor": "#af9b6e",
+    "backgroundColor": "#e8e7e3",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a4b77b",
+    "hue": 41,
+    "saturation": 29,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 12512,
+   "title": "Auld Lang Syne Album",
+   "artist": "Georgina Cowper",
+   "date": "1855/68",
+   "medium": "Album (albumen prints, drawings, text and newspaper clippings)",
+   "department": "Photography and Media",
+   "imageId": "fd34597c-f27d-ac99-40d4-ca4c733d0d6a",
+   "aspectRatio": 0.8337,
+   "palette": {
+    "accentColor": "#bda33d",
+    "backgroundColor": "#ebe9e0",
+    "blob1Color": "#d0b549",
+    "blob2Color": "#a0cd65",
+    "hue": 48,
+    "saturation": 51,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 14696,
+   "title": "Abundantia from The Four Continents and Related Allegories",
+   "artist": "Lodewijk van Schoor",
+   "date": "c. 1680/1700",
+   "medium": "Wool and silk, slit and double interlocking tapestry weave",
+   "department": "Textiles",
+   "imageId": "b7893502-e9f8-7000-386c-25676b1a85f9",
+   "aspectRatio": 0.9681,
+   "palette": {
+    "accentColor": "#287e8f",
+    "backgroundColor": "#e0e9eb",
+    "blob1Color": "#42bed6",
+    "blob2Color": "#6077d2",
+    "hue": 190,
+    "saturation": 56,
+    "lightness": 36
+   }
+  },
+  {
+   "id": 29230,
+   "title": "Julia Jackson",
+   "artist": "Julia Margaret Cameron",
+   "date": "1867",
+   "medium": "Albumen print",
+   "department": "Photography and Media",
+   "imageId": "7582416c-67cd-3682-bf97-5f9883bdd972",
+   "aspectRatio": 0.793,
+   "palette": {
+    "accentColor": "#bfa67d",
+    "backgroundColor": "#e9e6e2",
+    "blob1Color": "#b9975f",
+    "blob2Color": "#aabc76",
+    "hue": 37,
+    "saturation": 34,
+    "lightness": 71
+   }
+  },
+  {
+   "id": 33552,
+   "title": "Thomas Abthorpe Cooper (1776-1849)",
+   "artist": "Chester Harding",
+   "date": "c. 1822",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "4900a490-b98a-a072-d753-1e57ec16767b",
+   "aspectRatio": 0.8138,
+   "palette": {
+    "accentColor": "#b3a589",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 0,
+    "lightness": 68
+   }
+  },
+  {
+   "id": 66,
+   "title": "A Young Man Caressing the Young Hostess",
+   "artist": "Cornelis Pietersz. Bega",
+   "date": "c. 1650",
+   "medium": "Etching on cream laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "ab1dfe48-14e8-b546-7e35-581c401db240",
+   "aspectRatio": 0.809,
+   "palette": {
+    "accentColor": "#ab9a7c",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 16,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 4847,
+   "title": "Miniature Jar with Textile Pattern or Abstract Fish Motifs",
+   "artist": "Inca",
+   "date": "1450–1532",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "3630990c-1c4d-ff54-b9ee-ab8c9ed9a411",
+   "aspectRatio": 1.3605,
+   "palette": {
+    "accentColor": "#80525c",
+    "backgroundColor": "#e7e4e5",
+    "blob1Color": "#b36576",
+    "blob2Color": "#b6947c",
+    "hue": 347,
+    "saturation": 2,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 150795,
+   "title": "Milk Jug and Spirit Stove",
+   "artist": "Paul Cezanne",
+   "date": "1879–82",
+   "medium": "Graphite on ivory wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "d4b66c5d-f681-ab39-286b-55535f34cbb4",
+   "aspectRatio": 0.6187,
+   "palette": {
+    "accentColor": "#f0ba4c",
+    "backgroundColor": "#ede8de",
+    "blob1Color": "#eaac2e",
+    "blob2Color": "#b6e052",
+    "hue": 40,
+    "saturation": 85,
+    "lightness": 93
+   }
+  },
+  {
+   "id": 41211,
+   "title": "Portrait of Philip IV",
+   "artist": "Workshop of Diego Rodriguez de Velázquez",
+   "date": "c. 1632",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "a2450337-afed-2797-17e7-2e1f2158235c",
+   "aspectRatio": 0.5947,
+   "palette": {
+    "accentColor": "#9e8a67",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39865",
+    "blob2Color": "#a5b67c",
+    "hue": 39,
+    "saturation": 8,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 11330,
+   "title": "Dannie Mercurio, 150 Schottes Alley, Washington D.C.",
+   "artist": "Lewis Wickes Hine",
+   "date": "April 1912",
+   "medium": "Gelatin silver print",
+   "department": "Photography and Media",
+   "imageId": "84ac074e-2a15-b46a-fca9-aa3a1ad2e606",
+   "aspectRatio": 0.729,
+   "palette": {
+    "accentColor": "#afa383",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39e65",
+    "blob2Color": "#a1b67c",
+    "hue": 44,
+    "saturation": 11,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 69780,
+   "title": "The Fountain, Villa Torlonia, Frascati, Italy",
+   "artist": "John Singer Sargent",
+   "date": "1907",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "3f9aa9db-61e1-7060-fdb0-bfd7e41ddd08",
+   "aspectRatio": 0.78,
+   "palette": {
+    "accentColor": "#a28d6d",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 15,
+    "lightness": 53
+   }
+  },
+  {
+   "id": 2446,
+   "title": "Nydia, The Blind Flower Girl of Pompeii",
+   "artist": "Randolph Rogers",
+   "date": "modeled 1855–56, carved 1858",
+   "medium": "Marble",
+   "department": "Arts of the Americas",
+   "imageId": "d7b947ea-f027-1399-cf49-36c7bbb42339",
+   "aspectRatio": 0.7386,
+   "palette": {
+    "accentColor": "#796b4e",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a3b67c",
+    "hue": 41,
+    "saturation": 0,
+    "lightness": 39
+   }
+  },
+  {
+   "id": 15714,
+   "title": "Portrait of Thomas Bulwer",
+   "artist": "Gerard van Soest",
+   "date": "1654",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "6f9efc13-46f6-32a6-ac9a-80447870fb5c",
+   "aspectRatio": 0.8529,
+   "palette": {
+    "accentColor": "#c99740",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d6a042",
+    "blob2Color": "#b4d260",
+    "hue": 38,
+    "saturation": 56,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 27,
+   "title": "Remembrance of Italy",
+   "artist": "Jean Baptiste Camille Corot",
+   "date": "c. 1866",
+   "medium": "Etching on tan laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "ab107179-7106-937e-7676-e0263b02e530",
+   "aspectRatio": 0.6924,
+   "palette": {
+    "accentColor": "#9a7632",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d0a049",
+    "blob2Color": "#b0cd65",
+    "hue": 39,
+    "saturation": 51,
+    "lightness": 40
+   }
+  },
+  {
+   "id": 144648,
+   "title": "Auguste Ambroise Tardieu (French doctor and forensic scientist, 1818-1879)",
+   "artist": "Unknown",
+   "date": "1876/79",
+   "medium": "Woodburytype, from the periodical “Galerie Contemporaine Littéraire, Artistique” (1879), volume 8",
+   "department": "Photography and Media",
+   "imageId": "59f41e57-cf22-1b4b-7dba-c87edec55fde",
+   "aspectRatio": 0.7803,
+   "palette": {
+    "accentColor": "#736145",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 25,
+    "lightness": 36
+   }
+  },
+  {
+   "id": 516,
+   "title": "Dress for Christ Child",
+   "artist": "Spain",
+   "date": "18th century",
+   "medium": "Silk, satin weave, embroidered",
+   "department": "Textiles",
+   "imageId": "2a3ef0b3-3e4a-a5f9-d581-372ac850b99a",
+   "aspectRatio": 1.6331,
+   "palette": {
+    "accentColor": "#e9cb53",
+    "backgroundColor": "#edeade",
+    "blob1Color": "#eac52e",
+    "blob2Color": "#a3e052",
+    "hue": 48,
+    "saturation": 77,
+    "lightness": 65
+   }
+  },
+  {
+   "id": 2096,
+   "title": "Tunic",
+   "artist": "Nasca",
+   "date": "800-900",
+   "medium": "",
+   "department": "Textiles",
+   "imageId": "43b17212-ca26-09a8-e392-7c65c755d06f",
+   "aspectRatio": 1.5277,
+   "palette": {
+    "accentColor": "#8f5b5b",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36565",
+    "blob2Color": "#b6a17c",
+    "hue": 0,
+    "saturation": 0,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 9928,
+   "title": "Kesa",
+   "artist": "Japan",
+   "date": "late Edo period (1789–1868), mid–/late 19th century",
+   "medium": "",
+   "department": "Textiles",
+   "imageId": "93e69501-592a-317e-9069-d35b05081641",
+   "aspectRatio": 1.6411,
+   "palette": {
+    "accentColor": "#b38994",
+    "backgroundColor": "#e7e4e5",
+    "blob1Color": "#b3657a",
+    "blob2Color": "#b6917c",
+    "hue": 344,
+    "saturation": 1,
+    "lightness": 64
+   }
+  },
+  {
+   "id": 2257,
+   "title": "Fragment",
+   "artist": "Wari",
+   "date": "About 600-800 CE",
+   "medium": "Wool (camelid), plain weave of discontinuous warps and wefts; scaffold weave; resist-dyed",
+   "department": "Textiles",
+   "imageId": "d508b537-7c5c-6fc1-9514-e7d010f15e5c",
+   "aspectRatio": 0.5,
+   "palette": {
+    "accentColor": "#914740",
+    "backgroundColor": "#e9e2e2",
+    "blob1Color": "#c06159",
+    "blob2Color": "#c1aa71",
+    "hue": 5,
+    "saturation": 39,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 49660,
+   "title": "The Arrival of Telemachus on Calypso's Island from The Story of Telemachus",
+   "artist": "Manufacture Royale d’Aubusson",
+   "date": "after 1776",
+   "medium": "Wool, silk, and linen, slit, dovetailed and double interlocking tapestry weave",
+   "department": "Textiles",
+   "imageId": "8feaf185-82c1-fa64-8b61-2eda90c520f3",
+   "aspectRatio": 1.1867,
+   "palette": {
+    "accentColor": "#2297f1",
+    "backgroundColor": "#dee7ed",
+    "blob1Color": "#2e99ea",
+    "blob2Color": "#5b52e0",
+    "hue": 206,
+    "saturation": 91,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 581,
+   "title": "Fan",
+   "artist": "Benjamin West",
+   "date": "1775/1800",
+   "medium": "Ivory guards and sticks, carved; paper mount, painted; gold leaf; metal pin with mother-of-pearl",
+   "department": "Textiles",
+   "imageId": "e71a6cfa-1d27-3810-d976-b5b17638974e",
+   "aspectRatio": 1.7454,
+   "palette": {
+    "accentColor": "#a26d6d",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36565",
+    "blob2Color": "#b6a17c",
+    "hue": 0,
+    "saturation": 0,
+    "lightness": 53
+   }
+  },
+  {
+   "id": 4796,
+   "title": "Fishing Boats with Hucksters Bargaining for Fish",
+   "artist": "Joseph Mallord William Turner",
+   "date": "1837–38",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "8641479e-c93e-f1a8-9925-19be061706da",
+   "aspectRatio": 1.294,
+   "palette": {
+    "accentColor": "#7f9cad",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#6595b3",
+    "blob2Color": "#7d7cb6",
+    "hue": 203,
+    "saturation": 16,
+    "lightness": 59
+   }
+  },
+  {
+   "id": 141139,
+   "title": "Djed-Pillar Amulet",
+   "artist": "Ancient Egyptian",
+   "date": "Ptolemaic Period (332–30 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "cda51eef-6ceb-7c65-8a5a-4c57084d4770",
+   "aspectRatio": 0.7999,
+   "palette": {
+    "accentColor": "#4098c4",
+    "backgroundColor": "#e0e7eb",
+    "blob1Color": "#46a4d2",
+    "blob2Color": "#6367cf",
+    "hue": 200,
+    "saturation": 53,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 2296,
+   "title": "Coat of Arms of Maximilian I as King of the Romans",
+   "artist": "Albrecht Dürer",
+   "date": "c. 1517",
+   "medium": "Woodcut in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "f82c92c8-b577-7eb1-ca56-abe56bcd7bfb",
+   "aspectRatio": 0.6537,
+   "palette": {
+    "accentColor": "#8f805b",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39d65",
+    "blob2Color": "#a2b67c",
+    "hue": 43,
+    "saturation": 17,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 120298,
+   "title": "Statuette of Osiris-Iah",
+   "artist": "Ancient Egyptian",
+   "date": "Late Period, Dynasty 26–30, about 664–332 BCE",
+   "medium": "Copper alloy",
+   "department": "Arts of Africa",
+   "imageId": "f9d0a9c2-50e2-0881-3a3b-271f877dd29d",
+   "aspectRatio": 0.7499,
+   "palette": {
+    "accentColor": "#838eaf",
+    "backgroundColor": "#e4e5e7",
+    "blob1Color": "#6579b3",
+    "blob2Color": "#927cb6",
+    "hue": 225,
+    "saturation": 0,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 43718,
+   "title": "E11: English Entrance Hall of the Georgian Period, c. 1775",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1932",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "790a9a26-96d6-e0a8-43eb-f5a292595df6",
+   "aspectRatio": 1.6992,
+   "palette": {
+    "accentColor": "#c3af6f",
+    "backgroundColor": "#eae8e1",
+    "blob1Color": "#c2a956",
+    "blob2Color": "#a1c36f",
+    "hue": 46,
+    "saturation": 41,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 25432,
+   "title": "Standing Bowl",
+   "artist": "Italian; Venice",
+   "date": "1490/1500",
+   "medium": "Colorless glass with enamel and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "1a92a361-398f-3d0a-491f-0cb9cbc4df4e",
+   "aspectRatio": 1.4158,
+   "palette": {
+    "accentColor": "#5678ae",
+    "backgroundColor": "#e2e5e9",
+    "blob1Color": "#5e81ba",
+    "blob2Color": "#8775bd",
+    "hue": 217,
+    "saturation": 35,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 144499,
+   "title": "Effigy of Sir W. Scott's favourite dog Maida, by the side of the hall door at Abbotsford",
+   "artist": "William Henry Fox Talbot",
+   "date": "1844",
+   "medium": "Salted paper print, plate VI from the album \"Sun Pictures in Scotland\" (1845)",
+   "department": "Photography and Media",
+   "imageId": "1ab9fd96-1f47-16e5-fb13-801acab81ce3",
+   "aspectRatio": 1.4012,
+   "palette": {
+    "accentColor": "#ae986f",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39865",
+    "blob2Color": "#a5b67c",
+    "hue": 39,
+    "saturation": 28,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 1833,
+   "title": "Roundel Fragment",
+   "artist": "Egypt",
+   "date": "7th century",
+   "medium": "Wool and linen, slit tapestry weave",
+   "department": "Textiles",
+   "imageId": "f8721fec-ffd4-0018-617e-d8b951ab3f35",
+   "aspectRatio": 1.1804,
+   "palette": {
+    "accentColor": "#853732",
+    "backgroundColor": "#eae1e1",
+    "blob1Color": "#c85751",
+    "blob2Color": "#c7aa6b",
+    "hue": 3,
+    "saturation": 45,
+    "lightness": 36
+   }
+  },
+  {
+   "id": 1584,
+   "title": "17 Fragments",
+   "artist": "France",
+   "date": "18th century",
+   "medium": "silk, brocaded in silk and metal thread",
+   "department": "Textiles",
+   "imageId": "7aa409f7-ba09-b6a7-352a-09ac5fb2923f",
+   "aspectRatio": 0.937,
+   "palette": {
+    "accentColor": "#9c9c63",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3b365",
+    "blob2Color": "#91b67c",
+    "hue": 60,
+    "saturation": 6,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 140747,
+   "title": "Miniature New Year's Flask",
+   "artist": "Ancient Egyptian",
+   "date": "Late Period, Dynasty 26, reign of Psamtek I (664–610 BCE)",
+   "medium": "Faience, pigment",
+   "department": "Arts of Africa",
+   "imageId": "d09547be-dfb2-ae47-d867-ba55a82d8f68",
+   "aspectRatio": 0.6667,
+   "palette": {
+    "accentColor": "#7c8aab",
+    "backgroundColor": "#e4e5e7",
+    "blob1Color": "#657db3",
+    "blob2Color": "#8f7cb6",
+    "hue": 222,
+    "saturation": 1,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 4765,
+   "title": "Bowl Depicting Fish, Sharks, or Whales",
+   "artist": "Nasca",
+   "date": "180 BCE–500 CE",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "91f473c1-ab96-271a-ff07-9a3e60469300",
+   "aspectRatio": 1.3471,
+   "palette": {
+    "accentColor": "#bb6758",
+    "backgroundColor": "#eae3e1",
+    "blob1Color": "#c46555",
+    "blob2Color": "#c4b16e",
+    "hue": 9,
+    "saturation": 42,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 126981,
+   "title": "Gaming Set, Probably Made for the Russian Court",
+   "artist": "Du Paquier Porcelain Manufactory",
+   "date": "c. 1735",
+   "medium": "Hard-paste porcelain, polychrome enamels, gold, and diamonds",
+   "department": "Applied Arts of Europe",
+   "imageId": "55c7170e-0011-df2a-8943-b22cb5585661",
+   "aspectRatio": 1.1944,
+   "palette": {
+    "accentColor": "#95290f",
+    "backgroundColor": "#ede1de",
+    "blob1Color": "#ea542e",
+    "blob2Color": "#e0c952",
+    "hue": 12,
+    "saturation": 82,
+    "lightness": 31
+   }
+  },
+  {
+   "id": 57163,
+   "title": "New England Scenery",
+   "artist": "Thomas Cole",
+   "date": "1839",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "99e276fd-f076-f396-b5c1-b22c3ce62b45",
+   "aspectRatio": 0.7834,
+   "palette": {
+    "accentColor": "#c1953e",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d0a349",
+    "blob2Color": "#aecd65",
+    "hue": 40,
+    "saturation": 51,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 141238,
+   "title": "Ring: Figure of Serpent Uto (?)",
+   "artist": "Ancient Egyptian",
+   "date": "New Kingdom, Dynasty 18 (about 1390 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "00e64ed1-4a0d-fa51-a7fe-2afc02f40dff",
+   "aspectRatio": 1.1009,
+   "palette": {
+    "accentColor": "#2a9896",
+    "backgroundColor": "#e0ebeb",
+    "blob1Color": "#41d7d5",
+    "blob2Color": "#5f8bd3",
+    "hue": 179,
+    "saturation": 57,
+    "lightness": 38
+   }
+  },
+  {
+   "id": 140847,
+   "title": "Amulet of a Serpent on a Stela",
+   "artist": "Ancient Egyptian",
+   "date": "Third Intermediate Period (about 1070–664 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "0e047d23-f188-6d13-33e6-b0433498c06c",
+   "aspectRatio": 0.738,
+   "palette": {
+    "accentColor": "#5f8b95",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#65a4b3",
+    "blob2Color": "#7c86b6",
+    "hue": 192,
+    "saturation": 14,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 145637,
+   "title": "On the \"Sow,\" Near Walton's House at Shallowford",
+   "artist": "Peter Henry Emerson",
+   "date": "1880s",
+   "medium": "Photogravure, plate XXXI from the album \"The Compleat Angler or the Contemplative Man's Recreation, Volume II\" (1888)",
+   "department": "Photography and Media",
+   "imageId": "82b3e160-80ac-e355-5174-f9ec534caf5d",
+   "aspectRatio": 1.5221,
+   "palette": {
+    "accentColor": "#8c7b5a",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 19,
+    "lightness": 45
+   }
+  },
+  {
+   "id": 141149,
+   "title": "Amulet of a Situla (Jar)",
+   "artist": "Ancient Egyptian",
+   "date": "Third Intermediate Period, Dynasties 21–25 (about 1069–656 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "3b2fac65-ad00-1533-a037-32e7a995f110",
+   "aspectRatio": 1.199,
+   "palette": {
+    "accentColor": "#0c6297",
+    "backgroundColor": "#dee7ed",
+    "blob1Color": "#2ea2ea",
+    "blob2Color": "#5452e0",
+    "hue": 203,
+    "saturation": 85,
+    "lightness": 32
+   }
+  },
+  {
+   "id": 109780,
+   "title": "Love of Winter",
+   "artist": "George Wesley Bellows",
+   "date": "1914",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "18ab0c35-e35c-0216-9afd-f93357920db1",
+   "aspectRatio": 1.26,
+   "palette": {
+    "accentColor": "#d4a025",
+    "backgroundColor": "#ede8de",
+    "blob1Color": "#e9b130",
+    "blob2Color": "#b1e052",
+    "hue": 42,
+    "saturation": 70,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 43784,
+   "title": "E29: English Roman Catholic Church in the Gothic Style, 1275–1300",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "8e29271d-e364-1a31-79f6-957c68097496",
+   "aspectRatio": 0.6708,
+   "palette": {
+    "accentColor": "#b3974d",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c1a557",
+    "blob2Color": "#a4c270",
+    "hue": 44,
+    "saturation": 40,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 19336,
+   "title": "The Resurrection",
+   "artist": "Cecco del Caravaggio",
+   "date": "c. 1619-20",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "a49c5ada-f461-d7d1-0f1b-468ac577a872",
+   "aspectRatio": 0.5672,
+   "palette": {
+    "accentColor": "#b3a789",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39d65",
+    "blob2Color": "#a2b67c",
+    "hue": 43,
+    "saturation": 22,
+    "lightness": 87
+   }
+  },
+  {
+   "id": 2344,
+   "title": "Tea Bowl",
+   "artist": "China",
+   "date": "c. 1750",
+   "medium": "Hard-paste porcelain with polychrome enamels and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "bb506af3-7677-b443-c8b0-431ddcc077c4",
+   "aspectRatio": 1.3453,
+   "palette": {
+    "accentColor": "#9a301d",
+    "backgroundColor": "#ece1df",
+    "blob1Color": "#e64d33",
+    "blob2Color": "#dec054",
+    "hue": 9,
+    "saturation": 68,
+    "lightness": 36
+   }
+  },
+  {
+   "id": 46230,
+   "title": "Reliquary Casket of Saints Adrian and Natalia",
+   "artist": "León, Spain",
+   "date": "1100–50",
+   "medium": "Silver and oak core",
+   "department": "Applied Arts of Europe",
+   "imageId": "e1ac9f2d-591e-6063-ae1b-d0cd1c66a3a3",
+   "aspectRatio": 1.3336,
+   "palette": {
+    "accentColor": "#7084a4",
+    "backgroundColor": "#e4e5e7",
+    "blob1Color": "#6583b3",
+    "blob2Color": "#8b7cb6",
+    "hue": 217,
+    "saturation": 1,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 6915,
+   "title": "Fragment of a Jar in the Form of a Human Head, Possibly Deceased, Wearing a Nosering",
+   "artist": "Moche",
+   "date": "100 BCE–500 CE",
+   "medium": "Ceramic, pigment, and gold",
+   "department": "Arts of the Americas",
+   "imageId": "206e0c24-aa2a-df95-29fd-f47941ad6663",
+   "aspectRatio": 0.6662,
+   "palette": {
+    "accentColor": "#dfa134",
+    "backgroundColor": "#ede7de",
+    "blob1Color": "#eaa52e",
+    "blob2Color": "#bae052",
+    "hue": 38,
+    "saturation": 73,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 34215,
+   "title": "Side Chair",
+   "artist": "John Philip Fondé",
+   "date": "c. 1816",
+   "medium": "Ash, white pine, white oak, painted decoration, and upholstery",
+   "department": "Arts of the Americas",
+   "imageId": "ce3d1707-83e4-5e1b-dc62-507df2f5c3b1",
+   "aspectRatio": 0.7507,
+   "palette": {
+    "accentColor": "#c69939",
+    "backgroundColor": "#ebe8e0",
+    "blob1Color": "#d5a744",
+    "blob2Color": "#aed161",
+    "hue": 41,
+    "saturation": 55,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 73269,
+   "title": "Procession of the Fat Ox from a Teniers Series",
+   "artist": "Workshop of Daniel IV Leyniers",
+   "date": "1729-1768",
+   "medium": "Wool and silk, slit and double interlocking tapestry weave",
+   "department": "Textiles",
+   "imageId": "f1c2d399-463a-e837-8931-3a306125a06b",
+   "aspectRatio": 1.1578,
+   "palette": {
+    "accentColor": "#eac653",
+    "backgroundColor": "#edeade",
+    "blob1Color": "#eabe2e",
+    "blob2Color": "#a7e052",
+    "hue": 46,
+    "saturation": 78,
+    "lightness": 66
+   }
+  },
+  {
+   "id": 118551,
+   "title": "Armor for Field and Tournament",
+   "artist": "Jörg T. Sorg, the Younger",
+   "date": "About 1560",
+   "medium": "Steel with gilding, iron, brass, leather, and cord",
+   "department": "Applied Arts of Europe",
+   "imageId": "ff8959bc-76f1-3eae-7de6-b6bd994a5860",
+   "aspectRatio": 0.7511,
+   "palette": {
+    "accentColor": "#b1953e",
+    "backgroundColor": "#eae8e1",
+    "blob1Color": "#ccac4d",
+    "blob2Color": "#a4ca68",
+    "hue": 45,
+    "saturation": 48,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 111608,
+   "title": "Emperor Heraclius Slays the King of Persia",
+   "artist": "Netherlandish",
+   "date": "c. 1470",
+   "medium": "Tempera and oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "6f01cb05-cd90-87c8-fd24-a1d31e2ccec6",
+   "aspectRatio": 0.796,
+   "palette": {
+    "accentColor": "#c5190d",
+    "backgroundColor": "#eddfde",
+    "blob1Color": "#ea3b2e",
+    "blob2Color": "#e0b652",
+    "hue": 4,
+    "saturation": 96,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 74967,
+   "title": "The Fates Gathering in the Stars",
+   "artist": "Elihu Vedder",
+   "date": "1887",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "94105fa4-8d1c-cbbd-bd02-80d77e8f0a84",
+   "aspectRatio": 0.7234,
+   "palette": {
+    "accentColor": "#866c41",
+    "backgroundColor": "#e9e6e2",
+    "blob1Color": "#ba975e",
+    "blob2Color": "#abbd75",
+    "hue": 37,
+    "saturation": 35,
+    "lightness": 39
+   }
+  },
+  {
+   "id": 111317,
+   "title": "Amédée-David, the Comte de Pastoret",
+   "artist": "Jean Auguste Dominique Ingres",
+   "date": "1823–26",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "8d119fd0-2f57-f20e-a3f5-a573904001e9",
+   "aspectRatio": 0.8081,
+   "palette": {
+    "accentColor": "#d1a642",
+    "backgroundColor": "#ece8df",
+    "blob1Color": "#ddac3c",
+    "blob2Color": "#aed75b",
+    "hue": 42,
+    "saturation": 61,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 6567,
+   "title": "The Absinthe Drinker",
+   "artist": "Albert-Emmanuel Bertrand",
+   "date": "c. 1890",
+   "medium": "Etching in color heightened with graphite, on ivory wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "7b8a78b8-478a-c30c-89af-4fb625f94206",
+   "aspectRatio": 0.8057,
+   "palette": {
+    "accentColor": "#d3a75a",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d9a140",
+    "blob2Color": "#b5d45e",
+    "hue": 38,
+    "saturation": 58,
+    "lightness": 59
+   }
+  },
+  {
+   "id": 43736,
+   "title": "E16: French Hall of the Louis XII Period, c. 1500",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "b85bcf2e-cf39-c9a7-df42-a6db01eb27c4",
+   "aspectRatio": 1.186,
+   "palette": {
+    "accentColor": "#bba263",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#c0a359",
+    "blob2Color": "#a5c171",
+    "hue": 43,
+    "saturation": 39,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 196296,
+   "title": "Field Where General Reynolds Fell, Gettysburg",
+   "artist": "Timothy O'Sullivan",
+   "date": "July 1863",
+   "medium": "Albumen print, pl. 37 from the album \"Gardner's Photographic Sketch Book of the War, vol. 1\" (1866)",
+   "department": "Photography and Media",
+   "imageId": "bfa7d858-e0fb-7ccd-2c7e-22410e47ecfc",
+   "aspectRatio": 1.2914,
+   "palette": {
+    "accentColor": "#b9a483",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 28,
+    "lightness": 62
+   }
+  },
+  {
+   "id": 158978,
+   "title": "Pair of Sinumbra Lamps",
+   "artist": "Cornelius and Company",
+   "date": "c. 1827–31",
+   "medium": "Gilded brass, bronze, and glass",
+   "department": "Arts of the Americas",
+   "imageId": "777b2338-bf1c-3f3a-5cbd-833815bb81cb",
+   "aspectRatio": 0.7507,
+   "palette": {
+    "accentColor": "#a8864d",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#bd995b",
+    "blob2Color": "#abbf73",
+    "hue": 38,
+    "saturation": 37,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 70466,
+   "title": "The Solitude of the Soul",
+   "artist": "Lorado Taft",
+   "date": "Modeled in plaster 1901; sculpted in marble 1914",
+   "medium": "Marble",
+   "department": "Arts of the Americas",
+   "imageId": "3454713a-b08e-46f1-302c-d61ed1168293",
+   "aspectRatio": 0.8004,
+   "palette": {
+    "accentColor": "#a09a6a",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3ab65",
+    "blob2Color": "#97b67c",
+    "hue": 54,
+    "saturation": 4,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 16327,
+   "title": "The Annunciation",
+   "artist": "Jean Hey, (the Master of Moulins)",
+   "date": "1490–95",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "77951d0c-d781-eac6-f4ff-f13cc5cfc0cf",
+   "aspectRatio": 0.6842,
+   "palette": {
+    "accentColor": "#a17f36",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#cea44a",
+    "blob2Color": "#accc66",
+    "hue": 41,
+    "saturation": 50,
+    "lightness": 42
+   }
+  },
+  {
+   "id": 66880,
+   "title": "A Venetian Canal",
+   "artist": "Alfred Stieglitz",
+   "date": "1894, printed 1897",
+   "medium": "Photogravure",
+   "department": "Photography and Media",
+   "imageId": "74fe9c13-06df-2727-a8de-46fa46d28a32",
+   "aspectRatio": 0.7099,
+   "palette": {
+    "accentColor": "#807c52",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3ae65",
+    "blob2Color": "#95b67c",
+    "hue": 56,
+    "saturation": 6,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 6588,
+   "title": "Bowl",
+   "artist": "Porzellanmanufaktur Frankenthal",
+   "date": "c. 1780",
+   "medium": "Hard-paste porcelain with polychrome enamels and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "fa333451-2833-199d-5a6a-8b8870569dbf",
+   "aspectRatio": 1.3164,
+   "palette": {
+    "accentColor": "#a22315",
+    "backgroundColor": "#eddfde",
+    "blob1Color": "#ea412e",
+    "blob2Color": "#e0ba52",
+    "hue": 6,
+    "saturation": 77,
+    "lightness": 36
+   }
+  },
+  {
+   "id": 51194,
+   "title": "Mask for Egungun (Ere Egungun)",
+   "artist": "Yoruba",
+   "date": "Late 19th century",
+   "medium": "Wood and pigment",
+   "department": "Arts of Africa",
+   "imageId": "ac199022-1bc7-5a42-a1d7-3f811a3b149c",
+   "aspectRatio": 0.8067,
+   "palette": {
+    "accentColor": "#d0af6c",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d1a348",
+    "blob2Color": "#aece64",
+    "hue": 40,
+    "saturation": 52,
+    "lightness": 64
+   }
+  },
+  {
+   "id": 7708,
+   "title": "Cléo de Mérode, from Treize Lithographies",
+   "artist": "Henri de Toulouse-Lautrec",
+   "date": "1898, published before 1906",
+   "medium": "Lithograph on cream wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "655f7f69-02fe-ede3-6c34-a520a79aabc3",
+   "aspectRatio": 0.811,
+   "palette": {
+    "accentColor": "#c1aa5c",
+    "backgroundColor": "#eae8e1",
+    "blob1Color": "#c8ac51",
+    "blob2Color": "#a2c76b",
+    "hue": 46,
+    "saturation": 45,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 43368,
+   "title": "Vase",
+   "artist": "Ancient Egyptian",
+   "date": "Dynasty 18-19 (about 1550-1186 BCE)",
+   "medium": "Glass, core-formed technique",
+   "department": "Arts of Africa",
+   "imageId": "7d9260fa-bdbb-3168-2226-7f50aef2e72a",
+   "aspectRatio": 0.637,
+   "palette": {
+    "accentColor": "#c29f2e",
+    "backgroundColor": "#ece9df",
+    "blob1Color": "#deb83a",
+    "blob2Color": "#a6d85a",
+    "hue": 46,
+    "saturation": 62,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 86447,
+   "title": "Hispano-Moresque Plate",
+   "artist": "Spanish; Valencia (probably Manises)",
+   "date": "16th century",
+   "medium": "Tin-glazed earthenware with copper luster",
+   "department": "Applied Arts of Europe",
+   "imageId": "b7105a59-5f89-bd5e-ba27-1732b168f5f8",
+   "aspectRatio": 1,
+   "palette": {
+    "accentColor": "#5f8195",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#6595b3",
+    "blob2Color": "#7d7cb6",
+    "hue": 203,
+    "saturation": 3,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 120360,
+   "title": "Statuette of Osiris",
+   "artist": "Ancient Egyptian",
+   "date": "Late Period, Dynasty 26 (664–525 BCE)",
+   "medium": "Steatite",
+   "department": "Arts of Africa",
+   "imageId": "18d61501-4180-4f43-8914-0b4ae006be8e",
+   "aspectRatio": 0.7499,
+   "palette": {
+    "accentColor": "#b3a489",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 0,
+    "lightness": 71
+   }
+  },
+  {
+   "id": 191183,
+   "title": "Madame Paul Escudier (Louise Lefevre)",
+   "artist": "John Singer Sargent",
+   "date": "1882",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "c6da9f8c-643b-f331-0f8f-a9b6a844caf6",
+   "aspectRatio": 0.6978,
+   "palette": {
+    "accentColor": "#4f6440",
+    "backgroundColor": "#e5e7e4",
+    "blob1Color": "#86b365",
+    "blob2Color": "#7cb689",
+    "hue": 95,
+    "saturation": 2,
+    "lightness": 32
+   }
+  },
+  {
+   "id": 8746,
+   "title": "Abstract Portrait Vessel of a Ruler with Painted Face Resting on Feet",
+   "artist": "Moche",
+   "date": "100 BCE–500 CE",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "6545873f-56c1-7192-7332-0c1f3fc50b87",
+   "aspectRatio": 0.7476,
+   "palette": {
+    "accentColor": "#424d67",
+    "backgroundColor": "#e4e5e7",
+    "blob1Color": "#657eb3",
+    "blob2Color": "#8f7cb6",
+    "hue": 221,
+    "saturation": 2,
+    "lightness": 33
+   }
+  },
+  {
+   "id": 11156,
+   "title": "Fragment (Dress Fabric)",
+   "artist": "Iran (Persia)",
+   "date": "1801/1850",
+   "medium": "Design in gold, red, blue, green and white on greyish-blue ground. Horizontal rows of floral butes turned alternately in opposite direction, surrounded by smaller butes and flowers. Lined. Satin.",
+   "department": "Textiles",
+   "imageId": "21d38495-71d6-e654-438f-f0f81b12d37a",
+   "aspectRatio": 1.0249,
+   "palette": {
+    "accentColor": "#5d8fbb",
+    "backgroundColor": "#e1e6ea",
+    "blob1Color": "#5690c2",
+    "blob2Color": "#786fc3",
+    "hue": 208,
+    "saturation": 41,
+    "lightness": 55
+   }
+  },
+  {
+   "id": 43768,
+   "title": "E25: French Bathroom and Boudoir of the Revolutionary Period, 1793–1804",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "5663045a-4348-200a-967c-1dea1cb4580d",
+   "aspectRatio": 1.5318,
+   "palette": {
+    "accentColor": "#bda670",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#bda05b",
+    "blob2Color": "#a6bf73",
+    "hue": 42,
+    "saturation": 37,
+    "lightness": 59
+   }
+  },
+  {
+   "id": 11209,
+   "title": "Kesa",
+   "artist": "Japan",
+   "date": "Edo period (1615–1868), late 18th/early 19th century",
+   "medium": "",
+   "department": "Textiles",
+   "imageId": "d3d0599f-ac17-02a2-df0d-78c5cf30116f",
+   "aspectRatio": 1.652,
+   "palette": {
+    "accentColor": "#6b5a3d",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 27,
+    "lightness": 33
+   }
+  },
+  {
+   "id": 30899,
+   "title": "Portrait of Cardinal Zelada",
+   "artist": "Anton Raphael Mengs",
+   "date": "1773",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "e53b4972-30dc-5aed-1696-2b5778277d60",
+   "aspectRatio": 0.7431,
+   "palette": {
+    "accentColor": "#ae4c3d",
+    "backgroundColor": "#eae2e1",
+    "blob1Color": "#cc5e4d",
+    "blob2Color": "#cab368",
+    "hue": 8,
+    "saturation": 48,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 2839,
+   "title": "Stirrup Spout Vessel with Geometric Motifs",
+   "artist": "Moche",
+   "date": "100 BCE–500 CE",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "09ae2532-741c-cb0a-6a26-5f3890ec5ae3",
+   "aspectRatio": 0.6,
+   "palette": {
+    "accentColor": "#d0aa6d",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d09c49",
+    "blob2Color": "#b3cd65",
+    "hue": 37,
+    "saturation": 51,
+    "lightness": 65
+   }
+  },
+  {
+   "id": 54071,
+   "title": "Friendship Quilt",
+   "artist": "Ella Maria Deacon",
+   "date": "1842",
+   "medium": "Appliquéd and pieced quilt; dyed and printed plain weave cotton fabrics; ink inscriptions",
+   "department": "Textiles",
+   "imageId": "85495116-d429-e52d-ab48-6d1c87578b5b",
+   "aspectRatio": 0.9808,
+   "palette": {
+    "accentColor": "#dfb326",
+    "backgroundColor": "#edeade",
+    "blob1Color": "#eabe2e",
+    "blob2Color": "#a7e052",
+    "hue": 46,
+    "saturation": 74,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 4516,
+   "title": "Sampler",
+   "artist": "Switzerland or the Netherlands",
+   "date": "1812",
+   "medium": "Colored silk",
+   "department": "Textiles",
+   "imageId": "73123f48-7605-487a-9d05-8302c1510ad9",
+   "aspectRatio": 0.9071,
+   "palette": {
+    "accentColor": "#90712c",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d2a646",
+    "blob2Color": "#adcf63",
+    "hue": 41,
+    "saturation": 53,
+    "lightness": 37
+   }
+  },
+  {
+   "id": 193100,
+   "title": "Goldweight in the Form of a Geometric Shape",
+   "artist": "Asante",
+   "date": "18th/19th century",
+   "medium": "Copper alloy",
+   "department": "Arts of Africa",
+   "imageId": "1535c065-a5d0-c7e1-94ba-55ea9bb3e74d",
+   "aspectRatio": 0.8944,
+   "palette": {
+    "accentColor": "#a9a379",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3a965",
+    "blob2Color": "#99b67c",
+    "hue": 52,
+    "saturation": 7,
+    "lightness": 57
+   }
+  },
+  {
+   "id": 116336,
+   "title": "Breastplate with Associated Fauld",
+   "artist": "Italian (?), possibly German",
+   "date": "c. 1530",
+   "medium": "Steel",
+   "department": "Applied Arts of Europe",
+   "imageId": "a78e1cce-ef4f-21b1-bc13-2abcfd2b2225",
+   "aspectRatio": 0.7698,
+   "palette": {
+    "accentColor": "#899fb3",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#658eb3",
+    "blob2Color": "#837cb6",
+    "hue": 209,
+    "saturation": 4,
+    "lightness": 84
+   }
+  },
+  {
+   "id": 181558,
+   "title": "Rue de la Montagne-Sainte-Geneviève near the Intersection of Rue LaPlace (Rue de la Montagne-Sainte-Geneviève prés de carrefour de la rue LaPlace)",
+   "artist": "Charles Marville",
+   "date": "1865/69",
+   "medium": "Albumen print",
+   "department": "Photography and Media",
+   "imageId": "76d6a66a-4276-3966-e9aa-90d74f04cd3e",
+   "aspectRatio": 0.8537,
+   "palette": {
+    "accentColor": "#b3a389",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 21,
+    "lightness": 87
+   }
+  },
+  {
+   "id": 72153,
+   "title": "Autumn",
+   "artist": "Meissen Porcelain Manufactory",
+   "date": "c. 1755",
+   "medium": "Hard-paste porcelain, polychrome enamels, and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "3309d163-7fa8-08a3-fd43-b6a6cf52af13",
+   "aspectRatio": 0.6596,
+   "palette": {
+    "accentColor": "#b2982e",
+    "backgroundColor": "#ece9df",
+    "blob1Color": "#dabb3e",
+    "blob2Color": "#a1d55d",
+    "hue": 48,
+    "saturation": 59,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 2057,
+   "title": "Fragment (Border)",
+   "artist": "Nasca",
+   "date": "100 BCE-200 CE",
+   "medium": "",
+   "department": "Textiles",
+   "imageId": "077a96b5-3106-e7b7-1d0f-3c024be4f1f3",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#dd5a4b",
+    "backgroundColor": "#ece0df",
+    "blob1Color": "#e64433",
+    "blob2Color": "#deb954",
+    "hue": 6,
+    "saturation": 68,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 2581,
+   "title": "Venus and Adonis (?) with the Duck Hunt",
+   "artist": "Jacques Geubels, I",
+   "date": "c. 1600",
+   "medium": "Wool and silk, slit and double interlocking tapestry weave",
+   "department": "Textiles",
+   "imageId": "70cf3a07-637e-ab7e-c0e8-5678cd6d20f4",
+   "aspectRatio": 0.7757,
+   "palette": {
+    "accentColor": "#cea96f",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#cd9b4c",
+    "blob2Color": "#b2cb67",
+    "hue": 37,
+    "saturation": 49,
+    "lightness": 62
+   }
+  },
+  {
+   "id": 1908,
+   "title": "Fragment",
+   "artist": "Italy",
+   "date": "1575/1600",
+   "medium": "Silk, plain weave with plain interlacings of secondary binding warps and supplementary patterning wefts",
+   "department": "Textiles",
+   "imageId": "b7d5c25c-b6bb-b9f1-539c-54cffaba61af",
+   "aspectRatio": 0.6345,
+   "palette": {
+    "accentColor": "#eedd3f",
+    "backgroundColor": "#edecde",
+    "blob1Color": "#ead82e",
+    "blob2Color": "#94e052",
+    "hue": 54,
+    "saturation": 84,
+    "lightness": 59
+   }
+  },
+  {
+   "id": 16218,
+   "title": "Susanna and the Elders in the Garden, and the Trial of Susanna before the Elders",
+   "artist": "Master of Apollo and Daphne",
+   "date": "c. 1500",
+   "medium": "Tempera on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "c2b1c74c-a0fb-c184-734f-159a092fbb3f",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#97241c",
+    "backgroundColor": "#eddfde",
+    "blob1Color": "#e73d31",
+    "blob2Color": "#dfb553",
+    "hue": 4,
+    "saturation": 69,
+    "lightness": 35
+   }
+  },
+  {
+   "id": 4715,
+   "title": "Rounded Jar Depicting Abstract Fish or Sharks",
+   "artist": "Nasca",
+   "date": "180 BCE–500 CE",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "0c948be5-3ea6-2f46-e30a-de864d3c1cc5",
+   "aspectRatio": 1.2658,
+   "palette": {
+    "accentColor": "#805252",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36765",
+    "blob2Color": "#b6a27c",
+    "hue": 1,
+    "saturation": 2,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 18075,
+   "title": "The cannon 'Mons Meg' at Edinburgh Castle, and a private in the 2nd battalion of Royal Scots who garrisoned the Castle in 1846",
+   "artist": "David Octavius Hill",
+   "date": "1846",
+   "medium": "Salted paper print",
+   "department": "Photography and Media",
+   "imageId": "34dc6d7b-0201-bd9d-687d-06993555700b",
+   "aspectRatio": 1.3441,
+   "palette": {
+    "accentColor": "#ba9b45",
+    "backgroundColor": "#eae8e1",
+    "blob1Color": "#c9a950",
+    "blob2Color": "#a6c86a",
+    "hue": 44,
+    "saturation": 46,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 51263,
+   "title": "Apron",
+   "artist": "Italy",
+   "date": "17th century",
+   "medium": "Linen, plain weave; pulled thread work with silk floss in two-sided Italian cross stitch; inside waistband gathered by feather, running, and back filling stitches; edged in silk, warp twining with ground weft fringe, attached by buttonhole and detached buttonhole stitches",
+   "department": "Textiles",
+   "imageId": "dc8ad3c7-4e2a-ef95-4367-48b7b38e2bcc",
+   "aspectRatio": 0.6758,
+   "palette": {
+    "accentColor": "#d6519b",
+    "backgroundColor": "#ecdfe6",
+    "blob1Color": "#de3a94",
+    "blob2Color": "#d8645a",
+    "hue": 327,
+    "saturation": 62,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 93900,
+   "title": "Portrait of a Man in Costume",
+   "artist": "Jean Honoré Fragonard",
+   "date": "c. 1767–68",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "9b1c3d61-5f9b-c7a2-a5ea-f48248836160",
+   "aspectRatio": 0.8091,
+   "palette": {
+    "accentColor": "#8f845b",
+    "backgroundColor": "#e8e7e3",
+    "blob1Color": "#b3a265",
+    "blob2Color": "#9eb67c",
+    "hue": 47,
+    "saturation": 21,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 43771,
+   "title": "E26: French Anteroom of the Empire Period, c. 1810",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "f022dccb-e2db-e44e-56b2-efd64d1d75da",
+   "aspectRatio": 1.6343,
+   "palette": {
+    "accentColor": "#8e7643",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#bc9e5d",
+    "blob2Color": "#a6be74",
+    "hue": 41,
+    "saturation": 36,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 154037,
+   "title": "Domenico da Gambassi",
+   "artist": "Andrea del Sarto",
+   "date": "1525–28",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "d8c733d2-5132-d0e6-c7ba-2f9f35f1a191",
+   "aspectRatio": 1.3082,
+   "palette": {
+    "accentColor": "#ad857f",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36e65",
+    "blob2Color": "#b6a77c",
+    "hue": 7,
+    "saturation": 9,
+    "lightness": 59
+   }
+  },
+  {
+   "id": 1601,
+   "title": "Panel (Judith with the head of Holofernes, Possibly from an Altar Frontal)",
+   "artist": "Switzerland",
+   "date": "c. 1590",
+   "medium": "Linen, plain weave; embroidered with silk, linen, and gilt-metal-strip-wrapped linen in back, a variety of buttonhole, chain, square chain, cross, long-armed cross, eyelet, herring bone, threaded herringbone, knotted, interlocking lace, overcast, running, double running, satin, and stem stitches; couching; edged with linen and gilt-metal-strip-wrapped linen bobbin lace",
+   "department": "Textiles",
+   "imageId": "29ca142c-9294-b70b-c443-86b3877f02f9",
+   "aspectRatio": 1.7953,
+   "palette": {
+    "accentColor": "#2f4f75",
+    "backgroundColor": "#e1e5ea",
+    "blob1Color": "#5488c5",
+    "blob2Color": "#7c6dc5",
+    "hue": 212,
+    "saturation": 43,
+    "lightness": 31
+   }
+  },
+  {
+   "id": 43690,
+   "title": "E3: English Reception Room of the Jacobean/Caroline Periods, 1625–55",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "3d28aa28-46c4-fc9f-9d6f-439ebeee5c93",
+   "aspectRatio": 1.3534,
+   "palette": {
+    "accentColor": "#93434a",
+    "backgroundColor": "#e9e2e2",
+    "blob1Color": "#bd5b64",
+    "blob2Color": "#bf9d73",
+    "hue": 355,
+    "saturation": 37,
+    "lightness": 42
+   }
+  },
+  {
+   "id": 2106,
+   "title": "Altar Cover",
+   "artist": "Spain",
+   "date": "19th century",
+   "medium": "Linen, plain weave; open work; two panels joined",
+   "department": "Textiles",
+   "imageId": "8b996961-d99b-5005-db87-5e07d0129f57",
+   "aspectRatio": 0.7378,
+   "palette": {
+    "accentColor": "#a26d6d",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36565",
+    "blob2Color": "#b6a17c",
+    "hue": 0,
+    "saturation": 0,
+    "lightness": 53
+   }
+  },
+  {
+   "id": 136000,
+   "title": "Amulet of a Headrest",
+   "artist": "Ancient Egyptian",
+   "date": "Third Intermediate Period, Dynasty 21–25 (1070–656 BCE)",
+   "medium": "Hematite",
+   "department": "Arts of Africa",
+   "imageId": "6bd8ab95-f8bf-915e-3e28-b3193ab6ddf9",
+   "aspectRatio": 1.2245,
+   "palette": {
+    "accentColor": "#89b3a9",
+    "backgroundColor": "#e4e7e6",
+    "blob1Color": "#65b3a0",
+    "blob2Color": "#7ca0b6",
+    "hue": 165,
+    "saturation": 4,
+    "lightness": 62
+   }
+  },
+  {
+   "id": 120300,
+   "title": "Statuette of Re-Horakhty",
+   "artist": "Ancient Egyptian",
+   "date": "Third Intermediate Period-Late Period, Dynasty 21–26, about 1069–525 BCE",
+   "medium": "Copper alloy with gilding",
+   "department": "Arts of Africa",
+   "imageId": "f4e6d05f-6211-e858-8f94-a93e42f5f3a1",
+   "aspectRatio": 0.7999,
+   "palette": {
+    "accentColor": "#ab7c81",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b3656d",
+    "blob2Color": "#b69b7c",
+    "hue": 354,
+    "saturation": 0,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 74432,
+   "title": "Eagle",
+   "artist": "John Haley Bellamy",
+   "date": "1870–1900",
+   "medium": "Pine, paint, and gold leaf",
+   "department": "Arts of the Americas",
+   "imageId": "e2ec734e-af90-0a46-253d-6dd2459d3817",
+   "aspectRatio": 1.6639,
+   "palette": {
+    "accentColor": "#92161a",
+    "backgroundColor": "#eddede",
+    "blob1Color": "#ea2e34",
+    "blob2Color": "#e0a752",
+    "hue": 358,
+    "saturation": 74,
+    "lightness": 33
+   }
+  },
+  {
+   "id": 20684,
+   "title": "Paris Street; Rainy Day",
+   "artist": "Gustave Caillebotte",
+   "date": "1877",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "f8fd76e9-c396-5678-36ed-6a348c904d27",
+   "aspectRatio": 1.2878,
+   "palette": {
+    "accentColor": "#67879e",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#6593b3",
+    "blob2Color": "#7f7cb6",
+    "hue": 205,
+    "saturation": 14,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 43686,
+   "title": "E2: English Bedchamber of the Jacobean or Stuart Period, 1603–88",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1937",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "b3121bc2-419a-cc88-b189-f57bd0edc2c1",
+   "aspectRatio": 1.5887,
+   "palette": {
+    "accentColor": "#bc9b62",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c19a57",
+    "blob2Color": "#acc270",
+    "hue": 38,
+    "saturation": 40,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 50909,
+   "title": "Head of an Apostle",
+   "artist": "French",
+   "date": "c. 1210",
+   "medium": "Limestone",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "73eb91ee-cde0-2f6d-843f-4f263d5c409f",
+   "aspectRatio": 0.625,
+   "palette": {
+    "accentColor": "#a98337",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d0a349",
+    "blob2Color": "#aecd65",
+    "hue": 40,
+    "saturation": 51,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 15243,
+   "title": "The Tragic Actor (Rouvière in the role of Hamlet)",
+   "artist": "Édouard Manet",
+   "date": "1865–66",
+   "medium": "Etching and plate tone in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "8840b41b-2425-c8aa-23fd-db834df457e0",
+   "aspectRatio": 0.624,
+   "palette": {
+    "accentColor": "#867856",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39d65",
+    "blob2Color": "#a2b67c",
+    "hue": 43,
+    "saturation": 8,
+    "lightness": 43
+   }
+  },
+  {
+   "id": 7832,
+   "title": "Tea Bowl and Saucer",
+   "artist": "China",
+   "date": "c. 1750",
+   "medium": "Hard-paste porcelain with polychrome enamels and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "18c12dfd-3b5c-4c03-ea97-110a1b0ae85d",
+   "aspectRatio": 1.2902,
+   "palette": {
+    "accentColor": "#a54069",
+    "backgroundColor": "#eae1e5",
+    "blob1Color": "#c65281",
+    "blob2Color": "#c6816c",
+    "hue": 336,
+    "saturation": 44,
+    "lightness": 45
+   }
+  },
+  {
+   "id": 62371,
+   "title": "Madame Cezanne in a Yellow Chair",
+   "artist": "Paul Cezanne",
+   "date": "1888–90",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "4822cd01-44ac-041a-36b8-c0542377b750",
+   "aspectRatio": 0.7896,
+   "palette": {
+    "accentColor": "#5a888c",
+    "backgroundColor": "#e4e7e7",
+    "blob1Color": "#65adb3",
+    "blob2Color": "#7c8db6",
+    "hue": 185,
+    "saturation": 8,
+    "lightness": 45
+   }
+  },
+  {
+   "id": 180298,
+   "title": "Ceremonial Hanging (Palepai)",
+   "artist": "Paminggir",
+   "date": "19th century",
+   "medium": "Cotton, silk, and silver-leaf-over-lacquered-paper-strip-wrapped bast fiber (probably ramie), plain weave with supplementary patterning and brocading wefts, main warp fringe",
+   "department": "Textiles",
+   "imageId": "ca9c6ee4-58a1-38fa-362f-b00f9a5996d4",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#a57387",
+    "backgroundColor": "#e7e4e5",
+    "blob1Color": "#b36584",
+    "blob2Color": "#b68a7c",
+    "hue": 336,
+    "saturation": 1,
+    "lightness": 55
+   }
+  },
+  {
+   "id": 8045,
+   "title": "Departure for the Hunt",
+   "artist": "Rodolphe Bresdin",
+   "date": "1869",
+   "medium": "Etching on ivory wove varnished paper, laid down on gray card",
+   "department": "Prints and Drawings",
+   "imageId": "f1ac4b68-103d-3773-54bc-a2c03bf18c81",
+   "aspectRatio": 1.2175,
+   "palette": {
+    "accentColor": "#989761",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3b165",
+    "blob2Color": "#93b67c",
+    "hue": 58,
+    "saturation": 7,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 11350,
+   "title": "At Home, Pittsburgh",
+   "artist": "Lewis Wickes Hine",
+   "date": "1906",
+   "medium": "Gelatin silver print",
+   "department": "Photography and Media",
+   "imageId": "3f3dd747-2430-7e33-c9b3-33ad64a5b674",
+   "aspectRatio": 0.7307,
+   "palette": {
+    "accentColor": "#7c7550",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3a665",
+    "blob2Color": "#9bb67c",
+    "hue": 50,
+    "saturation": 7,
+    "lightness": 40
+   }
+  },
+  {
+   "id": 64715,
+   "title": "After a Summer Shower",
+   "artist": "George Inness",
+   "date": "1894",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "a9546ba5-6191-4e04-e209-d22a10e7d0d7",
+   "aspectRatio": 1.3178,
+   "palette": {
+    "accentColor": "#b5872c",
+    "backgroundColor": "#ece8df",
+    "blob1Color": "#dda73c",
+    "blob2Color": "#b2d75b",
+    "hue": 40,
+    "saturation": 61,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 93783,
+   "title": "Adam Rolland of Gask II",
+   "artist": "Sir Henry Raeburn",
+   "date": "1800–10",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "2308f4e9-7554-872a-a7bb-5835ef7d7d7f",
+   "aspectRatio": 0.7582,
+   "palette": {
+    "accentColor": "#d1af66",
+    "backgroundColor": "#ebe8e0",
+    "blob1Color": "#d4a645",
+    "blob2Color": "#add062",
+    "hue": 41,
+    "saturation": 54,
+    "lightness": 61
+   }
+  },
+  {
+   "id": 181740,
+   "title": "Male Face Mask (Chihongo)",
+   "artist": "Chokwe",
+   "date": "Mid–late 19th century",
+   "medium": "Wood, raffia, burlap, turaco feathers, guinea fowl feathers, and pigment",
+   "department": "Arts of Africa",
+   "imageId": "65010653-87cb-a15c-1803-bca5b6617a75",
+   "aspectRatio": 0.8092,
+   "palette": {
+    "accentColor": "#5f9588",
+    "backgroundColor": "#e4e7e6",
+    "blob1Color": "#65b3a0",
+    "blob2Color": "#7ca0b6",
+    "hue": 165,
+    "saturation": 8,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 91361,
+   "title": "Achira Root Vessel",
+   "artist": "Nasca",
+   "date": "200–450 CE",
+   "medium": "Earthenware and slip",
+   "department": "Arts of the Americas",
+   "imageId": "9546a61b-1249-1738-01be-2c207a01791c",
+   "aspectRatio": 0.9014,
+   "palette": {
+    "accentColor": "#9e8a67",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39865",
+    "blob2Color": "#a5b67c",
+    "hue": 39,
+    "saturation": 18,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 2583,
+   "title": "Plate",
+   "artist": "China",
+   "date": "c. 1750",
+   "medium": "Hard-paste porcelain with polychrome enamels and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "5fb62b48-8ea9-cc59-0b57-5c9779784b31",
+   "aspectRatio": 1.2058,
+   "palette": {
+    "accentColor": "#214c9c",
+    "backgroundColor": "#dfe4ec",
+    "blob1Color": "#3673e2",
+    "blob2Color": "#7c57db",
+    "hue": 219,
+    "saturation": 65,
+    "lightness": 37
+   }
+  },
+  {
+   "id": 184324,
+   "title": "Saint Michael and the Devil",
+   "artist": "Spanish",
+   "date": "1475–1500",
+   "medium": "Wood, formerly polychromed and gilded",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "b82fd3da-48ef-ca2d-4ab2-13342c765c12",
+   "aspectRatio": 0.6841,
+   "palette": {
+    "accentColor": "#f38a49",
+    "backgroundColor": "#ede4de",
+    "blob1Color": "#ea762e",
+    "blob2Color": "#dee052",
+    "hue": 23,
+    "saturation": 88,
+    "lightness": 81
+   }
+  },
+  {
+   "id": 35229,
+   "title": "Saint Agatha",
+   "artist": "Vergós Workshop",
+   "date": "c. 1500",
+   "medium": "Oil and gold on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "0aaa4cff-d1d8-8241-d230-0cecc9956f39",
+   "aspectRatio": 0.5036,
+   "palette": {
+    "accentColor": "#c49236",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d7a341",
+    "blob2Color": "#b2d35f",
+    "hue": 39,
+    "saturation": 57,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 24674,
+   "title": "The Oude Kerk, Delft",
+   "artist": "Cornelis de Man",
+   "date": "c. 1665",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "c68a078e-b4c1-7ea8-d37a-a30c7c28f94e",
+   "aspectRatio": 1.1871,
+   "palette": {
+    "accentColor": "#a9874c",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#be9a5a",
+    "blob2Color": "#abc072",
+    "hue": 38,
+    "saturation": 38,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 80165,
+   "title": "Foliage Ornament from Ancient Roman Church",
+   "artist": "Agostino dei Musi",
+   "date": "c. 1530–35",
+   "medium": "Engraving in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "e34d788a-d9b9-52d0-c1e5-39777a60a743",
+   "aspectRatio": 0.7226,
+   "palette": {
+    "accentColor": "#897858",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 21,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 143683,
+   "title": "Handkerchief",
+   "artist": "A. & C. Cramer",
+   "date": "c. 1876",
+   "medium": "Cotton, plain weave; roller and engraved roller printed",
+   "department": "Textiles",
+   "imageId": "507af6a9-3343-ee40-ad65-f22200251005",
+   "aspectRatio": 0.748,
+   "palette": {
+    "accentColor": "#87251d",
+    "backgroundColor": "#ece0df",
+    "blob1Color": "#e24536",
+    "blob2Color": "#dbb657",
+    "hue": 5,
+    "saturation": 65,
+    "lightness": 32
+   }
+  },
+  {
+   "id": 4081,
+   "title": "Gian Lodovico Madruzzo",
+   "artist": "Giovanni Battista Moroni",
+   "date": "1551–52",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "bc24fe7f-4171-c785-bff2-b2ed3777a47d",
+   "aspectRatio": 0.5754,
+   "palette": {
+    "accentColor": "#796e4e",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a065",
+    "blob2Color": "#a0b67c",
+    "hue": 45,
+    "saturation": 9,
+    "lightness": 39
+   }
+  },
+  {
+   "id": 8880,
+   "title": "Blackware Stirrup Spout Vessel with a Relief Depicting Warriors with Raised Arms",
+   "artist": "Chimú",
+   "date": "1200–1450",
+   "medium": "Ceramic",
+   "department": "Arts of the Americas",
+   "imageId": "54f50bdf-e0c6-afa3-0f6f-fc94fbb1ab45",
+   "aspectRatio": 0.7102,
+   "palette": {
+    "accentColor": "#af83ac",
+    "backgroundColor": "#e7e4e7",
+    "blob1Color": "#b365ae",
+    "blob2Color": "#b67c8e",
+    "hue": 304,
+    "saturation": 1,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 21672,
+   "title": "Portrait of Fridrich Rorbach",
+   "artist": "Conrad Faber",
+   "date": "1532",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "26ac1e6d-e547-0d9d-707b-7cec76babb60",
+   "aspectRatio": 0.6942,
+   "palette": {
+    "accentColor": "#e9bc2b",
+    "backgroundColor": "#edeade",
+    "blob1Color": "#eabe2e",
+    "blob2Color": "#a7e052",
+    "hue": 46,
+    "saturation": 81,
+    "lightness": 54
+   }
+  },
+  {
+   "id": 39690,
+   "title": "Portrait of Charles Lawrence Hutchinson",
+   "artist": "Julius Gari Melchers",
+   "date": "c. 1902",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "610db6a0-d4f9-13d9-11e7-41c4460859aa",
+   "aspectRatio": 0.9786,
+   "palette": {
+    "accentColor": "#9e9a57",
+    "backgroundColor": "#e8e8e3",
+    "blob1Color": "#b3af65",
+    "blob2Color": "#94b77b",
+    "hue": 57,
+    "saturation": 29,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 8958,
+   "title": "Arrangement in Flesh Color and Brown: Portrait of Arthur Jerome Eddy",
+   "artist": "James McNeill Whistler",
+   "date": "1894",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "43165650-0212-8897-0605-dc3fdda88c13",
+   "aspectRatio": 0.5,
+   "palette": {
+    "accentColor": "#92925d",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3b365",
+    "blob2Color": "#91b67c",
+    "hue": 60,
+    "saturation": 3,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 141150,
+   "title": "Amulet of an Unidentified Goddess",
+   "artist": "Ancient Egyptian",
+   "date": "Ptolemaic Period (?) (332–30 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "b7e120dd-9a74-75e4-a833-99e9c0df6821",
+   "aspectRatio": 0.7687,
+   "palette": {
+    "accentColor": "#288a82",
+    "backgroundColor": "#e0ebea",
+    "blob1Color": "#44d5c9",
+    "blob2Color": "#6193d1",
+    "hue": 175,
+    "saturation": 55,
+    "lightness": 35
+   }
+  },
+  {
+   "id": 20579,
+   "title": "Hercules and the Lernaean Hydra",
+   "artist": "Gustave Moreau",
+   "date": "1875–76",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "2ae64c8a-266d-470a-a25a-c83127564636",
+   "aspectRatio": 0.8662,
+   "palette": {
+    "accentColor": "#c3a979",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#be9b5a",
+    "blob2Color": "#aac072",
+    "hue": 39,
+    "saturation": 38,
+    "lightness": 67
+   }
+  },
+  {
+   "id": 97916,
+   "title": "The Bronco Buster",
+   "artist": "Frederic Remington",
+   "date": "Modeled 1895, cast 1899",
+   "medium": "Bronze with brown patina",
+   "department": "Arts of the Americas",
+   "imageId": "9c28758d-90d1-0794-87db-ddf2b20a0a3d",
+   "aspectRatio": 0.776,
+   "palette": {
+    "accentColor": "#835a8c",
+    "backgroundColor": "#e6e4e7",
+    "blob1Color": "#a565b3",
+    "blob2Color": "#b67c9c",
+    "hue": 289,
+    "saturation": 1,
+    "lightness": 45
+   }
+  },
+  {
+   "id": 68830,
+   "title": "Emperor's Jifu (Semiformal Court Robe)",
+   "artist": "Manchu",
+   "date": "Qing dynasty (1644–1911), 1825/50",
+   "medium": "Silk, slit tapestry weave; painted details; upper sleeves: silk, satin weave self-patterned by areas of twill weave; lower sleeves: silk, twill weave; impressed ribs",
+   "department": "Textiles",
+   "imageId": "2363a024-8729-2824-8be4-af724d70a0df",
+   "aspectRatio": 1.2471,
+   "palette": {
+    "accentColor": "#67839e",
+    "backgroundColor": "#e4e6e7",
+    "blob1Color": "#658eb3",
+    "blob2Color": "#837cb6",
+    "hue": 209,
+    "saturation": 18,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 210764,
+   "title": "Coyotero Apache Scouts, at Apache Lake, Sierra Blanca Mountains, Arizona. Two members of the Expedition in the back-ground, No. 31 from the series \"Geographical Explorations and Surveys West of the 100th Meridian\"",
+   "artist": "Timothy O'Sullivan",
+   "date": "1873",
+   "medium": "Albumen print, stereo",
+   "department": "Photography and Media",
+   "imageId": "7df02161-a8ec-082e-047d-3f13d231f8ca",
+   "aspectRatio": 1.7153,
+   "palette": {
+    "accentColor": "#efc64e",
+    "backgroundColor": "#ede9de",
+    "blob1Color": "#eabb2e",
+    "blob2Color": "#aae052",
+    "hue": 45,
+    "saturation": 83,
+    "lightness": 69
+   }
+  },
+  {
+   "id": 116962,
+   "title": "Hand-and-a-Half Sword",
+   "artist": "Hilt: 19th century in mid-16th century Swiss style",
+   "date": "Hilt: 19th century in mid–16th century Swiss style\nBlade: mid–16th century",
+   "medium": "Steel and leather",
+   "department": "Applied Arts of Europe",
+   "imageId": "24b262ae-262e-c52f-29b8-7bd2c517846f",
+   "aspectRatio": 0.6449,
+   "palette": {
+    "accentColor": "#6a444b",
+    "backgroundColor": "#e7e4e5",
+    "blob1Color": "#b36574",
+    "blob2Color": "#b6967c",
+    "hue": 349,
+    "saturation": 2,
+    "lightness": 34
+   }
+  },
+  {
+   "id": 29431,
+   "title": "Phalaris and the Bull of Perillus",
+   "artist": "Giovanni Battista Caccini",
+   "date": "1590–1600",
+   "medium": "Terracotta with traces of polychromy",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "8440f17e-a772-0dde-27a5-e3532a0a9de3",
+   "aspectRatio": 1.2409,
+   "palette": {
+    "accentColor": "#705280",
+    "backgroundColor": "#e6e4e7",
+    "blob1Color": "#9965b3",
+    "blob2Color": "#b67ca4",
+    "hue": 280,
+    "saturation": 7,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 150739,
+   "title": "Furisode",
+   "artist": "Japan",
+   "date": "late Edo period (1789–1868), 1801/1868",
+   "medium": "Silk, 4:1 satin damask weave (rinzu); embroidered with silk and gold-leaf-over-lacquered-paper-strip-wrapped silk in satin stitches; laid work and couching, and padded couching; lined with silk, plain weave",
+   "department": "Textiles",
+   "imageId": "2c6ecfa3-db53-694f-5675-dc119ee86690",
+   "aspectRatio": 0.8,
+   "palette": {
+    "accentColor": "#9e230a",
+    "backgroundColor": "#ede0de",
+    "blob1Color": "#ea4e2e",
+    "blob2Color": "#e0c452",
+    "hue": 10,
+    "saturation": 91,
+    "lightness": 33
+   }
+  },
+  {
+   "id": 87,
+   "title": "A warrior sits on a block and gestures; two figure are behind him, from Figurine series",
+   "artist": "Salvator Rosa",
+   "date": "n.d.",
+   "medium": "Etching with drypoint on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "86cecc57-ac83-ef3e-dd8f-7f24fce0effb",
+   "aspectRatio": 0.6644,
+   "palette": {
+    "accentColor": "#94793d",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c4a155",
+    "blob2Color": "#a9c46e",
+    "hue": 41,
+    "saturation": 42,
+    "lightness": 41
+   }
+  },
+  {
+   "id": 6623,
+   "title": "Copy of the Goods of Montpellier",
+   "artist": "France",
+   "date": "1810",
+   "medium": "Cotton, plain weave; block printed and copperplate printed; total of swatches: 2390",
+   "department": "Textiles",
+   "imageId": "d2c6b76f-3dc7-4f04-afff-7f4045d14fc3",
+   "aspectRatio": 0.5,
+   "palette": {
+    "accentColor": "#9c6366",
+    "backgroundColor": "#e8e3e4",
+    "blob1Color": "#b36569",
+    "blob2Color": "#b69e7c",
+    "hue": 357,
+    "saturation": 21,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 146055,
+   "title": "Camp of the 4th Light Dragoons",
+   "artist": "Roger Fenton",
+   "date": "1855",
+   "medium": "Salted paper print, from the album \"Photographic Pictures of the Seat of War in the Crimea\" (1856)",
+   "department": "Photography and Media",
+   "imageId": "3dfdf56f-7f2d-782c-882b-419ca1bfff86",
+   "aspectRatio": 1.4933,
+   "palette": {
+    "accentColor": "#b8a44c",
+    "backgroundColor": "#eae8e1",
+    "blob1Color": "#c5b054",
+    "blob2Color": "#9dc56d",
+    "hue": 49,
+    "saturation": 43,
+    "lightness": 51
+   }
+  },
+  {
+   "id": 140796,
+   "title": "Amulet of the Goddess Taweret",
+   "artist": "Ancient Egyptian",
+   "date": "Late Period, Dynasty 26–31 (664–332 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "0781adbe-0aeb-2538-e9f0-4892a151032e",
+   "aspectRatio": 0.6073,
+   "palette": {
+    "accentColor": "#73a597",
+    "backgroundColor": "#e4e7e6",
+    "blob1Color": "#65b39d",
+    "blob2Color": "#7ca2b6",
+    "hue": 163,
+    "saturation": 2,
+    "lightness": 55
+   }
+  },
+  {
+   "id": 23,
+   "title": "The Arch of Septimus Severus",
+   "artist": "Luigi Rossini",
+   "date": "1820",
+   "medium": "Etching on off-white wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "33115537-53c1-840b-5e74-07cb07c7b05d",
+   "aspectRatio": 1.328,
+   "palette": {
+    "accentColor": "#68573c",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 27,
+    "lightness": 12
+   }
+  },
+  {
+   "id": 125774,
+   "title": "Mother-and-Child Figure (Bwanga bwa Chibola)",
+   "artist": "Luluwa",
+   "date": "Mid–late 19th century",
+   "medium": "Wood and pigment",
+   "department": "Arts of Africa",
+   "imageId": "a766aef8-3bd6-8516-6691-223d9f8239b4",
+   "aspectRatio": 0.5479,
+   "palette": {
+    "accentColor": "#a389b3",
+    "backgroundColor": "#e6e4e7",
+    "blob1Color": "#9565b3",
+    "blob2Color": "#b67ca7",
+    "hue": 277,
+    "saturation": 2,
+    "lightness": 66
+   }
+  },
+  {
+   "id": 121767,
+   "title": "Head of an Official",
+   "artist": "Ancient Egyptian",
+   "date": "Middle Kingdom, Dynasty 13 (about 1773–1650 BCE)",
+   "medium": "Granite",
+   "department": "Arts of Africa",
+   "imageId": "b193b8a4-1a97-ee40-918c-cf1f92cf6a9b",
+   "aspectRatio": 1.332,
+   "palette": {
+    "accentColor": "#897858",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 22,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 20887,
+   "title": "Portrait of a Young Girl",
+   "artist": "Pieter Dubordieu",
+   "date": "1633–35",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "5372920d-7536-64ec-bf48-264e084635f8",
+   "aspectRatio": 0.8271,
+   "palette": {
+    "accentColor": "#957932",
+    "backgroundColor": "#ebe8e0",
+    "blob1Color": "#cea94a",
+    "blob2Color": "#a8cc66",
+    "hue": 43,
+    "saturation": 50,
+    "lightness": 39
+   }
+  },
+  {
+   "id": 1895,
+   "title": "Panel",
+   "artist": "Italy",
+   "date": "16th century",
+   "medium": "Silk and linen, satin damask weave",
+   "department": "Textiles",
+   "imageId": "f17aa6ce-bda2-53b2-1be7-07fed381715a",
+   "aspectRatio": 0.8667,
+   "palette": {
+    "accentColor": "#87404f",
+    "backgroundColor": "#e9e2e3",
+    "blob1Color": "#bc5d71",
+    "blob2Color": "#be9374",
+    "hue": 347,
+    "saturation": 36,
+    "lightness": 39
+   }
+  },
+  {
+   "id": 34,
+   "title": "Joseph Sold by his Brothers",
+   "artist": "Master of the Die",
+   "date": "1533",
+   "medium": "Engraving, printed in black, on paper",
+   "department": "Prints and Drawings",
+   "imageId": "2238572f-ad2a-110e-0eda-78dc50b8e13d",
+   "aspectRatio": 1.3495,
+   "palette": {
+    "accentColor": "#988e61",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b3a565",
+    "blob2Color": "#9cb67c",
+    "hue": 49,
+    "saturation": 18,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 106346,
+   "title": "Reinforcing Bevor and Grandguard for the Joust",
+   "artist": "South German, probably Augsburg",
+   "date": "c. 1560",
+   "medium": "Steel",
+   "department": "Applied Arts of Europe",
+   "imageId": "889fef05-c91a-7a6d-7fbe-8d0e3edb7c6f",
+   "aspectRatio": 1.0556,
+   "palette": {
+    "accentColor": "#b38e89",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b37065",
+    "blob2Color": "#b6a87c",
+    "hue": 8,
+    "saturation": 2,
+    "lightness": 69
+   }
+  },
+  {
+   "id": 15079,
+   "title": "Teacup, Coffee Cup, and Saucer",
+   "artist": "Worcester Porcelain Factory",
+   "date": "c. 1770",
+   "medium": "Soft-paste porcelain with purple enamel and gilding",
+   "department": "Applied Arts of Europe",
+   "imageId": "53d2920d-a144-a210-6b77-11bdd4af5f7e",
+   "aspectRatio": 1.5159,
+   "palette": {
+    "accentColor": "#897058",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b38c65",
+    "blob2Color": "#aeb67c",
+    "hue": 30,
+    "saturation": 0,
+    "lightness": 44
+   }
+  },
+  {
+   "id": 16293,
+   "title": "Christ Presented to the People",
+   "artist": "North Netherlandish",
+   "date": "c. 1480",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "e80440be-74b7-5c58-3306-a19eb756dd58",
+   "aspectRatio": 0.6367,
+   "palette": {
+    "accentColor": "#7a925d",
+    "backgroundColor": "#e6e7e4",
+    "blob1Color": "#90b365",
+    "blob2Color": "#7cb681",
+    "hue": 87,
+    "saturation": 7,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 79774,
+   "title": "Portrait of a Man",
+   "artist": "Corneille de Lyon",
+   "date": "c. 1555",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "5d52a808-7eb4-8651-f7c7-4e3ffaa06389",
+   "aspectRatio": 0.7716,
+   "palette": {
+    "accentColor": "#9a8142",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c1a357",
+    "blob2Color": "#a5c270",
+    "hue": 43,
+    "saturation": 40,
+    "lightness": 43
+   }
+  },
+  {
+   "id": 49,
+   "title": "L'Auberge du soleil levant",
+   "artist": "Charles Joseph Beauverie",
+   "date": "n.d.",
+   "medium": "Etching on cream wove paper, laid down on ivory wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "c5f616d8-3721-cc35-b858-3057a1f1b988",
+   "aspectRatio": 1.5091,
+   "palette": {
+    "accentColor": "#8f7f5b",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a3b67c",
+    "hue": 41,
+    "saturation": 17,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 16134,
+   "title": "The Flight into Egypt",
+   "artist": "Bernardino Jacobi Butinone",
+   "date": "c. 1485",
+   "medium": "Tempera on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "660278f5-2186-0999-3846-fd88a2071ce0",
+   "aspectRatio": 0.8787,
+   "palette": {
+    "accentColor": "#e2aa1d",
+    "backgroundColor": "#ede9de",
+    "blob1Color": "#eab52e",
+    "blob2Color": "#aee052",
+    "hue": 43,
+    "saturation": 77,
+    "lightness": 50
+   }
+  },
+  {
+   "id": 16231,
+   "title": "Processional Cross with Saint Mary Magdalene and a Blessed Hermit",
+   "artist": "Lorenzo Monaco",
+   "date": "1392–95",
+   "medium": "Tempera on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "7bc86f37-02d8-10fb-ec06-7e2ce69d9238",
+   "aspectRatio": 0.512,
+   "palette": {
+    "accentColor": "#9d2a15",
+    "backgroundColor": "#ede0de",
+    "blob1Color": "#ea4a2e",
+    "blob2Color": "#e0c152",
+    "hue": 9,
+    "saturation": 76,
+    "lightness": 35
+   }
+  },
+  {
+   "id": 66303,
+   "title": "The Hand of Man",
+   "artist": "Alfred Stieglitz",
+   "date": "1902, printed 1920/39",
+   "medium": "Gelatin silver print",
+   "department": "Photography and Media",
+   "imageId": "7ae8cca1-a81b-9d01-5246-316b82602a13",
+   "aspectRatio": 1.3274,
+   "palette": {
+    "accentColor": "#95845f",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39b65",
+    "blob2Color": "#a3b67c",
+    "hue": 41,
+    "saturation": 9,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 4788,
+   "title": "Lady Sarah Bunbury Sacrificing to the Graces",
+   "artist": "Sir Joshua Reynolds",
+   "date": "1763–65",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "5a047a1c-d36e-e88d-05e7-845d3936159b",
+   "aspectRatio": 0.6054,
+   "palette": {
+    "accentColor": "#735930",
+    "backgroundColor": "#eae6e1",
+    "blob1Color": "#c29956",
+    "blob2Color": "#aec36f",
+    "hue": 37,
+    "saturation": 41,
+    "lightness": 31
+   }
+  },
+  {
+   "id": 766,
+   "title": "Panel",
+   "artist": "France or England",
+   "date": "Early 18th century",
+   "medium": "Silk, gilt-metal strip, and gilt-metal-strip-wrapped silk (filé and frisé), plain weave with supplementary patterning wefts and brocading wefts and weft-float faced interlacing of secondary binding warps and some supplementary brocading wefts",
+   "department": "Textiles",
+   "imageId": "7959476b-f516-cab2-2324-c481104ab489",
+   "aspectRatio": 0.5056,
+   "palette": {
+    "accentColor": "#9fa776",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#a6b365",
+    "blob2Color": "#88b67c",
+    "hue": 70,
+    "saturation": 5,
+    "lightness": 56
+   }
+  },
+  {
+   "id": 205,
+   "title": "Bowl with Large Diamond-Shaped Area Interior with Dotted Lines and Diamonds, and Interlocking Stepped Motifs",
+   "artist": "Ancestral Pueblo",
+   "date": "950–1400",
+   "medium": "Earthenware and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "1aa5f4fd-76df-dc28-0831-be64ba5f5c97",
+   "aspectRatio": 1.1956,
+   "palette": {
+    "accentColor": "#444d6a",
+    "backgroundColor": "#e4e5e7",
+    "blob1Color": "#6577b3",
+    "blob2Color": "#937cb6",
+    "hue": 226,
+    "saturation": 1,
+    "lightness": 34
+   }
+  },
+  {
+   "id": 3698,
+   "title": "The Warriors",
+   "artist": "Master MZ",
+   "date": "c. 1500",
+   "medium": "Engraving in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "757be458-2714-bfac-aec8-219d1ddc9251",
+   "aspectRatio": 1.2723,
+   "palette": {
+    "accentColor": "#867756",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39c65",
+    "blob2Color": "#a3b67c",
+    "hue": 42,
+    "saturation": 7,
+    "lightness": 43
+   }
+  },
+  {
+   "id": 9,
+   "title": "Interior of St. Mark's, Venice",
+   "artist": "David Dalhoff Neal",
+   "date": "1869",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "b55d836c-ee20-59f8-1f0c-a95e09905361",
+   "aspectRatio": 0.8613,
+   "palette": {
+    "accentColor": "#a9874c",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#be9a5a",
+    "blob2Color": "#abc072",
+    "hue": 38,
+    "saturation": 38,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 3866,
+   "title": "Bonnet Veil",
+   "artist": "France, Bayeux or Chantilly",
+   "date": "1850s",
+   "medium": "Silk, bobbin straight lace (made in horizontal strips)",
+   "department": "Textiles",
+   "imageId": "370b45dd-adc1-7381-1bd6-bd6759dae175",
+   "aspectRatio": 2.004,
+   "palette": {
+    "accentColor": "#a26d6d",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36565",
+    "blob2Color": "#b6a17c",
+    "hue": 0,
+    "saturation": 0,
+    "lightness": 53
+   }
+  },
+  {
+   "id": 15720,
+   "title": "Landscape with Figures Crossing a Bridge",
+   "artist": "John Rathbone",
+   "date": "1790–1800",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "a2e9aad2-dd14-ae12-6c44-6811229b3619",
+   "aspectRatio": 1.3593,
+   "palette": {
+    "accentColor": "#f2b24a",
+    "backgroundColor": "#ede7de",
+    "blob1Color": "#eaa22e",
+    "blob2Color": "#bde052",
+    "hue": 37,
+    "saturation": 87,
+    "lightness": 68
+   }
+  },
+  {
+   "id": 154237,
+   "title": "Machinist",
+   "artist": "Emma Stebbins",
+   "date": "c. 1859",
+   "medium": "Marble",
+   "department": "Arts of the Americas",
+   "imageId": "d892d2dd-8497-27d1-23d1-64e8702ee58b",
+   "aspectRatio": 0.5625,
+   "palette": {
+    "accentColor": "#ab9f7c",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39e65",
+    "blob2Color": "#a1b67c",
+    "hue": 44,
+    "saturation": 0,
+    "lightness": 58
+   }
+  },
+  {
+   "id": 36372,
+   "title": "Eglise de St. Marc à Venise",
+   "artist": "Louis-Désiré Blanquart-Evrard",
+   "date": "1851",
+   "medium": "Salted paper print",
+   "department": "Photography and Media",
+   "imageId": "49248561-266d-5f14-518a-31271937c4a5",
+   "aspectRatio": 1.524,
+   "palette": {
+    "accentColor": "#c2af7a",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#bda35b",
+    "blob2Color": "#a3bf73",
+    "hue": 44,
+    "saturation": 37,
+    "lightness": 63
+   }
+  },
+  {
+   "id": 121726,
+   "title": "Plaque Depicting a Queen or Goddess",
+   "artist": "Ancient Egyptian",
+   "date": "Ptolemaic Period (332–30 BCE)",
+   "medium": "Limestone",
+   "department": "Arts of Africa",
+   "imageId": "d7e43072-2074-867d-7045-545420bf3589",
+   "aspectRatio": 0.9258,
+   "palette": {
+    "accentColor": "#404064",
+    "backgroundColor": "#e4e4e7",
+    "blob1Color": "#6765b3",
+    "blob2Color": "#a27cb6",
+    "hue": 241,
+    "saturation": 5,
+    "lightness": 15
+   }
+  },
+  {
+   "id": 50330,
+   "title": "Fall-Front Desk",
+   "artist": "Vienna, Austria",
+   "date": "c. 1810",
+   "medium": "Various woods and gilt-bronze mounts",
+   "department": "Applied Arts of Europe",
+   "imageId": "02676a81-8689-50ec-7440-162df7b5fc10",
+   "aspectRatio": 0.6496,
+   "palette": {
+    "accentColor": "#efb94d",
+    "backgroundColor": "#ede8de",
+    "blob1Color": "#eaac2e",
+    "blob2Color": "#b6e052",
+    "hue": 40,
+    "saturation": 84,
+    "lightness": 69
+   }
+  },
+  {
+   "id": 102777,
+   "title": "Abigail Chesebrough (Mrs. Alexander Grant)",
+   "artist": "Joseph Blackburn",
+   "date": "1754",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "513678a8-6b70-d2f4-addc-3640b0e1191f",
+   "aspectRatio": 0.8058,
+   "palette": {
+    "accentColor": "#9b803b",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c8a651",
+    "blob2Color": "#a7c76b",
+    "hue": 43,
+    "saturation": 45,
+    "lightness": 42
+   }
+  },
+  {
+   "id": 47153,
+   "title": "Mother and Child on a Seashore",
+   "artist": "Jozef Israëls",
+   "date": "c. 1890",
+   "medium": "Oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "8f60ebd1-f959-01a6-78b8-58aa1fadcf4b",
+   "aspectRatio": 1.5353,
+   "palette": {
+    "accentColor": "#beaf5b",
+    "backgroundColor": "#eae9e1",
+    "blob1Color": "#c5b454",
+    "blob2Color": "#9ac56d",
+    "hue": 51,
+    "saturation": 43,
+    "lightness": 55
+   }
+  },
+  {
+   "id": 112109,
+   "title": "Pointed Morion",
+   "artist": "North Italian, probably Milan",
+   "date": "c. 1580",
+   "medium": "Steel and brass",
+   "department": "Applied Arts of Europe",
+   "imageId": "4fb62d77-bc66-ed51-f8bb-436ae95dd316",
+   "aspectRatio": 0.8604,
+   "palette": {
+    "accentColor": "#8f825b",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a065",
+    "blob2Color": "#a0b67c",
+    "hue": 45,
+    "saturation": 0,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 874,
+   "title": "Landscape",
+   "artist": "Jean Charles Cazin",
+   "date": "c. 1895",
+   "medium": "Oil on canvas",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "3a34f988-f779-2e96-1786-8945b6b9c87d",
+   "aspectRatio": 1.2573,
+   "palette": {
+    "accentColor": "#645840",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 17,
+    "lightness": 31
+   }
+  },
+  {
+   "id": 24320,
+   "title": "Collar (Made from Border)",
+   "artist": "Italy",
+   "date": "1575/1625",
+   "medium": "Linen, three bands of needle lace worked on a plain weave; cut and drawn work grid; edged with bobbin straight lace",
+   "department": "Textiles",
+   "imageId": "b74a8640-df4a-6e61-dcd9-0e54c23fbc66",
+   "aspectRatio": 1.236,
+   "palette": {
+    "accentColor": "#c8ad74",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c5a154",
+    "blob2Color": "#a9c56d",
+    "hue": 41,
+    "saturation": 43,
+    "lightness": 67
+   }
+  },
+  {
+   "id": 14693,
+   "title": "Fragment",
+   "artist": "Italy",
+   "date": "1401-1425",
+   "medium": "Silk and gilt-animal-substrate-wrapped linen, warp-float faced 2:1 'S' twill weave with weft-float faced 1:3 'S' twill interlacings of secondary binding warps and supplementary patterning wefts",
+   "department": "Textiles",
+   "imageId": "155c11f8-0e76-501f-12eb-bd1f6d06aaa2",
+   "aspectRatio": 0.888,
+   "palette": {
+    "accentColor": "#6f5f3e",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 28,
+    "lightness": 34
+   }
+  },
+  {
+   "id": 25753,
+   "title": "Two Putti",
+   "artist": "Matteo di Giovanni",
+   "date": "1490–1510",
+   "medium": "Tempera or oil on panel",
+   "department": "Painting and Sculpture of Europe",
+   "imageId": "79a40120-87bf-ff0f-4a97-fdda3a26743c",
+   "aspectRatio": 0.7889,
+   "palette": {
+    "accentColor": "#da2110",
+    "backgroundColor": "#eddfde",
+    "blob1Color": "#ea3e2e",
+    "blob2Color": "#e0b852",
+    "hue": 5,
+    "saturation": 86,
+    "lightness": 46
+   }
+  },
+  {
+   "id": 181360,
+   "title": "Water Rhyolites, Near Logan Springs, Nevada",
+   "artist": "Timothy O'Sullivan",
+   "date": "1871",
+   "medium": "Albumen print, from the album \"Geographical & Geological Explorations & Surveys West of the 100th Meridian,\" vol. 2",
+   "department": "Photography and Media",
+   "imageId": "695be634-36b0-1b3d-371a-c07b29fb9506",
+   "aspectRatio": 1.3429,
+   "palette": {
+    "accentColor": "#7f6a39",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#bea05a",
+    "blob2Color": "#a6c072",
+    "hue": 42,
+    "saturation": 38,
+    "lightness": 36
+   }
+  },
+  {
+   "id": 92202,
+   "title": "Le Geant, Champ de Mars",
+   "artist": "Nadar (Gaspard Félix Tournachon)",
+   "date": "October 18, 1863, probably printed 1880/89",
+   "medium": "Gelatin silver printing out paper print",
+   "department": "Photography and Media",
+   "imageId": "adab5952-9ced-6048-3e3d-0e21b71843e1",
+   "aspectRatio": 0.9743,
+   "palette": {
+    "accentColor": "#b19f81",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 24,
+    "lightness": 60
+   }
+  },
+  {
+   "id": 16005,
+   "title": "Water Filter with Paired Fish",
+   "artist": "Islamic",
+   "date": "Fatimid dynasty (969–1171), 11th/12th century",
+   "medium": "Earthenware with pierced and incised decoration",
+   "department": "Arts of Africa",
+   "imageId": "8e54ac28-d6be-6a8b-5e51-865671bffc0b",
+   "aspectRatio": 1,
+   "palette": {
+    "accentColor": "#867356",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 0,
+    "lightness": 43
+   }
+  },
+  {
+   "id": 38967,
+   "title": "Radcliffe Library, Oxford",
+   "artist": "William Henry Fox Talbot",
+   "date": "c. 1841/43",
+   "medium": "Salted paper print",
+   "department": "Photography and Media",
+   "imageId": "c2eeea25-a1d0-ed58-b4e0-a4968c3cc338",
+   "aspectRatio": 0.8873,
+   "palette": {
+    "accentColor": "#a18e59",
+    "backgroundColor": "#e8e7e3",
+    "blob1Color": "#b39e65",
+    "blob2Color": "#a1b77b",
+    "hue": 44,
+    "saturation": 29,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 119272,
+   "title": "Pendant Shaped as a Ship",
+   "artist": "Probably eastern Mediterranean",
+   "date": "17th/18th century (with later additions)",
+   "medium": "Gold, enamels, pearls, and emerald",
+   "department": "Applied Arts of Europe",
+   "imageId": "28016df5-7837-1258-720a-2c9fc3593c78",
+   "aspectRatio": 0.82,
+   "palette": {
+    "accentColor": "#d6ab66",
+    "backgroundColor": "#ebe7e0",
+    "blob1Color": "#d99e40",
+    "blob2Color": "#b7d45e",
+    "hue": 37,
+    "saturation": 58,
+    "lightness": 63
+   }
+  },
+  {
+   "id": 45374,
+   "title": "A22: Virginia Dining Room, c. 1752",
+   "artist": "Narcissa Niblack Thorne",
+   "date": "c. 1940",
+   "medium": "Miniature room, mixed media",
+   "department": "Applied Arts of Europe",
+   "imageId": "9351dba8-e8aa-73b7-14a0-19ad7ea5965f",
+   "aspectRatio": 1.508,
+   "palette": {
+    "accentColor": "#8e3d2e",
+    "backgroundColor": "#ebe2e0",
+    "blob1Color": "#d05d49",
+    "blob2Color": "#cdb665",
+    "hue": 9,
+    "saturation": 51,
+    "lightness": 37
+   }
+  },
+  {
+   "id": 79332,
+   "title": "The Eye, Like a Strange Balloon Moves Towards Infinity, plate one from To Edgar Poe",
+   "artist": "Odilon Redon",
+   "date": "1882",
+   "medium": "Lithograph in black on ivory China paper, laid down on white wove paper",
+   "department": "Prints and Drawings",
+   "imageId": "5590e6dd-559a-858e-25cd-4c6a0e999ded",
+   "aspectRatio": 0.7573,
+   "palette": {
+    "accentColor": "#b38993",
+    "backgroundColor": "#e7e4e5",
+    "blob1Color": "#b36577",
+    "blob2Color": "#b6937c",
+    "hue": 346,
+    "saturation": 8,
+    "lightness": 67
+   }
+  },
+  {
+   "id": 36,
+   "title": "Saint Jerome",
+   "artist": "Antoine Masson",
+   "date": "1693",
+   "medium": "Engraving on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "58bb7f8f-fb90-96f8-c638-6ed226d8ec14",
+   "aspectRatio": 0.753,
+   "palette": {
+    "accentColor": "#95875f",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39e65",
+    "blob2Color": "#a1b67c",
+    "hue": 44,
+    "saturation": 10,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 103150,
+   "title": "Badlands of Wyoming",
+   "artist": "William Henry Jackson",
+   "date": "1879/92",
+   "medium": "Albumen print, stereo",
+   "department": "Photography and Media",
+   "imageId": "51f5f2ba-604f-43fe-ed6b-ee442ed59ff3",
+   "aspectRatio": 1.7026,
+   "palette": {
+    "accentColor": "#c6b176",
+    "backgroundColor": "#eae7e1",
+    "blob1Color": "#c2a556",
+    "blob2Color": "#a4c36f",
+    "hue": 44,
+    "saturation": 41,
+    "lightness": 82
+   }
+  },
+  {
+   "id": 121774,
+   "title": "Lintel Fragment Depicting Iniuia and Iuy Worshipping Deities",
+   "artist": "Ancient Egyptian",
+   "date": "New Kingdom, Dynasty 18, reign of Tutankhamun (about 1336–1327 BCE)",
+   "medium": "Limestone and pigment",
+   "department": "Arts of Africa",
+   "imageId": "c9721f90-ca5e-ed32-2d1b-8788ff047dda",
+   "aspectRatio": 2.2,
+   "palette": {
+    "accentColor": "#6a5c44",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39865",
+    "blob2Color": "#a5b67c",
+    "hue": 39,
+    "saturation": 4,
+    "lightness": 34
+   }
+  },
+  {
+   "id": 140930,
+   "title": "Amulet of the God Thoth",
+   "artist": "Ancient Egyptian",
+   "date": "Late Period, Dynasties 26–31 (664–332 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "790950e5-e4a8-1d9e-a548-d353f0db856b",
+   "aspectRatio": 0.5173,
+   "palette": {
+    "accentColor": "#979861",
+    "backgroundColor": "#e7e7e4",
+    "blob1Color": "#b1b365",
+    "blob2Color": "#8fb67c",
+    "hue": 62,
+    "saturation": 14,
+    "lightness": 49
+   }
+  },
+  {
+   "id": 106551,
+   "title": "Saint Jerome in his Cell",
+   "artist": "Albrecht Dürer",
+   "date": "1511",
+   "medium": "Woodcut in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "927d4fdd-a7f3-b69e-1ba6-3f74f00b9bc4",
+   "aspectRatio": 0.6811,
+   "palette": {
+    "accentColor": "#92895d",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a565",
+    "blob2Color": "#9cb67c",
+    "hue": 49,
+    "saturation": 12,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 66459,
+   "title": "Georgia O'Keeffe—Hands",
+   "artist": "Alfred Stieglitz",
+   "date": "1920/22",
+   "medium": "Palladium print",
+   "department": "Photography and Media",
+   "imageId": "19fb2149-fcab-2b01-1e97-3207640647a8",
+   "aspectRatio": 1.2737,
+   "palette": {
+    "accentColor": "#a08c6a",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 16,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 132068,
+   "title": "Amulet of a Heart",
+   "artist": "Ancient Egyptian",
+   "date": "New Kingdom, Dynasty 18 (about 1550–1295 BCE)",
+   "medium": "Glass",
+   "department": "Arts of Africa",
+   "imageId": "d0e18549-a133-f765-8fad-245904dcd2b1",
+   "aspectRatio": 1,
+   "palette": {
+    "accentColor": "#a98b4c",
+    "backgroundColor": "#e9e7e2",
+    "blob1Color": "#be9f5a",
+    "blob2Color": "#a7c072",
+    "hue": 41,
+    "saturation": 38,
+    "lightness": 48
+   }
+  },
+  {
+   "id": 130065,
+   "title": "Relief Fragment Depicting Ipi and Fowling in the Marshes",
+   "artist": "Ancient Egyptian",
+   "date": "First Intermediate Period, Dynasty 10, about 2050 BCE",
+   "medium": "Limestone with traces of pigment",
+   "department": "Arts of Africa",
+   "imageId": "e1c316d1-1629-97d4-505d-35180de9c2e1",
+   "aspectRatio": 1.5001,
+   "palette": {
+    "accentColor": "#ad9e7f",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39965",
+    "blob2Color": "#a4b67c",
+    "hue": 40,
+    "saturation": 0,
+    "lightness": 59
+   }
+  },
+  {
+   "id": 57209,
+   "title": "The August Moon",
+   "artist": "William Trost Richards",
+   "date": "1889",
+   "medium": "Oil on canvas",
+   "department": "Arts of the Americas",
+   "imageId": "b9e7b19d-5746-34bd-cc38-81bd5cac6fb0",
+   "aspectRatio": 1.8123,
+   "palette": {
+    "accentColor": "#a0926a",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b3a065",
+    "blob2Color": "#a0b67c",
+    "hue": 45,
+    "saturation": 13,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 46,
+   "title": "Portrait Bust of a Woman with a Large Collar, from Perfect School to Learn How to Draw the Entire Human Body (English translation)",
+   "artist": "Luca Ciamberlano",
+   "date": "n.d.",
+   "medium": "Engraving in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "7e00ffbc-16a9-96b9-3da2-f38174cccb5f",
+   "aspectRatio": 0.6962,
+   "palette": {
+    "accentColor": "#8b7550",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 27,
+    "lightness": 43
+   }
+  },
+  {
+   "id": 15457,
+   "title": "Plaque",
+   "artist": "Edo",
+   "date": "16th/17th century",
+   "medium": "Brass",
+   "department": "Arts of Africa",
+   "imageId": "fc361495-826f-3ef9-32d3-da3eac34c34a",
+   "aspectRatio": 0.8897,
+   "palette": {
+    "accentColor": "#5d8c92",
+    "backgroundColor": "#e4e7e7",
+    "blob1Color": "#65aab3",
+    "blob2Color": "#7c8bb6",
+    "hue": 187,
+    "saturation": 2,
+    "lightness": 47
+   }
+  },
+  {
+   "id": 141253,
+   "title": "Ring with Inlaid Openwork Bezel",
+   "artist": "Ancient Egyptian",
+   "date": "New Kingdom, Dynasty 18 (about 1350 BCE)",
+   "medium": "Faience",
+   "department": "Arts of Africa",
+   "imageId": "11b7b0ad-add5-1dec-5489-4c353ebad57d",
+   "aspectRatio": 1.4306,
+   "palette": {
+    "accentColor": "#a38c66",
+    "backgroundColor": "#e8e6e3",
+    "blob1Color": "#b39565",
+    "blob2Color": "#a7b67c",
+    "hue": 37,
+    "saturation": 25,
+    "lightness": 52
+   }
+  },
+  {
+   "id": 144353,
+   "title": "Male Figure",
+   "artist": "Dogon",
+   "date": "Possibly 18th century",
+   "medium": "Wood, pigment, and sacrificial material",
+   "department": "Arts of Africa",
+   "imageId": "045a2786-9d14-854e-f98e-fb348500d4c4",
+   "aspectRatio": 0.7499,
+   "palette": {
+    "accentColor": "#98b389",
+    "backgroundColor": "#e5e7e4",
+    "blob1Color": "#82b365",
+    "blob2Color": "#7cb68c",
+    "hue": 98,
+    "saturation": 1,
+    "lightness": 75
+   }
+  },
+  {
+   "id": 91558,
+   "title": "Ceremonial Vessel Depicting a Deer-Hunting Scene",
+   "artist": "Moche",
+   "date": "100 BCE–500 CE",
+   "medium": "Ceramic and pigment",
+   "department": "Arts of the Americas",
+   "imageId": "01ebbf55-2b6a-312b-7417-17e3aba5073a",
+   "aspectRatio": 0.8346,
+   "palette": {
+    "accentColor": "#b38989",
+    "backgroundColor": "#e7e4e4",
+    "blob1Color": "#b36565",
+    "blob2Color": "#b6a17c",
+    "hue": 0,
+    "saturation": 0,
+    "lightness": 68
+   }
+  },
+  {
+   "id": 21406,
+   "title": "St Michael Triumphing Over the Dragon",
+   "artist": "Hieronymous Wierix",
+   "date": "1584",
+   "medium": "Engraving in black on ivory laid paper",
+   "department": "Prints and Drawings",
+   "imageId": "6d035d43-d723-ef41-30ba-8a7303eda3af",
+   "aspectRatio": 0.7168,
+   "palette": {
+    "accentColor": "#a79576",
+    "backgroundColor": "#e7e6e4",
+    "blob1Color": "#b39765",
+    "blob2Color": "#a6b67c",
+    "hue": 38,
+    "saturation": 13,
+    "lightness": 56
+   }
+  }
+ ]
+}
