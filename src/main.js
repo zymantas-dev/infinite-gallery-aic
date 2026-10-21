@@ -15,7 +15,7 @@ engine.init().catch((error) => {
   if (veil) {
     veil.hidden = false
     veil.textContent =
-      'Could not reach the Art Institute of Chicago API. Check your connection and reload.'
+      'Could not load the gallery artworks. Check your connection and reload.'
   }
 })
 

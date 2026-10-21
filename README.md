@@ -10,43 +10,43 @@ npm run dev        # http://localhost:5300
 ```
 
 Scroll / drag to fly forward. It never ends, in either direction.
+(Artworks come from a static snapshot - see below.)
 
 ## How it works
 
 | Piece | Role |
 | --- | --- |
-| `api/artInstitute.js` | Pages `GET /artworks`, keeps public-domain items with an image + dominant colour, builds an IIIF URL and a mood palette (light background + two blob colours + accent) from the artwork's own HSL colour. |
-| `experience/ArtworkQueue.js` | Streams normalized artworks; primes a buffer, hands them out forever, prefetches the next page when the buffer runs low, shuffles each page so eras/media mix. |
+| `api/artInstitute.js` | Normalises an AIC record and builds a mood palette (light background + two blob colours + accent) from the artwork's own HSL colour. Used by the snapshot script. |
+| `api/staticGallery.js` | Loads `public/art/manifest.json` and maps each entry to its same-origin image URLs. |
+| `experience/ArtworkQueue.js` | Hands out the static set forever, reshuffling each lap. |
 | `experience/Gallery.js` | **Recycled pool of 14 planes.** Each owns a "station" index in the endless tunnel; planes the camera has passed are recycled to the far end and rebound to the next artwork, so memory stays flat. Low-res texture (`400,`) on recycle, upgraded to `843,` within ~3.5 stations of the active one. **Opacity is one continuous function** (`opacityForStationDelta`) — a linear tent between the two planes straddling the active point, smoothstep-remapped: one image holds full across a plateau (~12 wheel-ticks of dwell), then a clean dissolve to the next where the pair sums to ~1. No `Math.floor`, no third layer, so nothing pops. `xRhythm` alternates each artwork left/right of centre. |
 | `experience/Scroll.js` | Wheel/touch → damped camera-z velocity. Plane-range clamp removed (endless); `scrollToWorldFactor` + `planeGap` tuned so each artwork gets real scroll distance before it hands off. Velocity still drives every reactive effect. |
 | `experience/background/` | Full-screen GLSL quad; blob colours lerp toward the active artwork's mood palette. Unchanged shader from the element. |
 | `experience/TrailController.js` | Glowing weaving trail + sparkle particles ahead of the camera. Adapted for an endless path: phase = raw distance flown, whole-number wave cycles so the curve never breaks. |
 | `experience/Label.js` | DOM overlay — title / artist / date / medium + the dominant HSL colour, tracking whichever plane is most on-screen. |
 
-## The CORS catch (and why a static deploy isn't enough)
+## Static dataset (why there is no image proxy)
 
-The AIC **JSON API** (`api.artic.edu`) is open-CORS — the browser calls it
-directly. The **IIIF image host** (`www.artic.edu/iiif`) is trickier: it returns
-`Access-Control-Allow-Origin: *` **only** when the request carries
-`Referer: https://www.artic.edu/`; without it, every request is `403`. WebGL
-textures must be same-origin *and* untainted, so the images can't be loaded
-straight from `www.artic.edu`.
+Textures must be same-origin *and* untainted, and the AIC IIIF image host
+(`www.artic.edu/iiif`) is awkward: no CORS without a matching `Referer`, and
+its Cloudflare layer now answers requests from serverless/datacenter IPs
+(Vercel included) with a `403` challenge. A live proxy therefore works locally
+but not in production.
 
-- **Dev:** `vite.config.js` proxies `/iiif/*` and injects the `Referer` /
-  `User-Agent` the host wants.
-- **Prod:** `vite build` is a static bundle — the dev proxy is gone, and a plain
-  `vercel.json` rewrite can't add the `Referer` header, so it would 403. The
-  fix is the serverless function in **`api/iiif/[...path].js`**: `vercel.json`
-  rewrites `/iiif/*` → `/api/iiif/*`, the function refetches with the header and
-  streams the bytes back with permissive CORS + a long cache. The client uses
-  the same `/iiif/...` paths in both modes.
+So the gallery ships a **curated static snapshot** instead:
 
-### Deploying to Vercel
+- `npm run snapshot` (`scripts/snapshot.mjs`) samples public-domain artworks
+  across AIC departments, downloads 400px + 843px JPEGs (recompressed with
+  ImageMagick when available) and writes `public/art/manifest.json`.
+- `experience/ArtworkQueue.js` loads the manifest, shuffles it and laps it
+  forever, so the tunnel still never ends.
+- Run the snapshot from a normal (non-datacenter) network. Options:
+  `-- --count=240 --seed=1`.
 
-Import the repo, set **Root Directory** to `experiments/infinite-gallery-aic`.
-Vercel auto-detects Vite (build `vite build`, output `dist`) and picks up
-`api/` + `vercel.json`. No env vars. (Any host with a small proxy — Netlify
-function, Cloudflare Worker, a Node server — works the same way.)
+### Deploying
+
+Any static host works: `npm run build` -> `dist/` (~33MB, mostly `dist/art`).
+`vercel.json` only adds long-lived cache headers for `/art/*.jpg`.
 
 ## Credits
 
